@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2542014389693015738}
   - component: {fileID: 2542014389693015736}
   m_Layer: 5
-  m_Name: Garden Text
+  m_Name: Start Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34,10 +34,10 @@ RectTransform:
   m_Father: {fileID: 2542014391694733375}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 364.42084, y: 175}
-  m_SizeDelta: {x: 1019.685, y: 161.038}
+  m_AnchorMin: {x: 1, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: -595.57916, y: 175}
+  m_SizeDelta: {x: 1019.68506, y: 161.03796}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2542014389693015737
 CanvasRenderer:
@@ -140,7 +140,7 @@ GameObject:
   - component: {fileID: 2542014390105161254}
   - component: {fileID: 2542014390105161252}
   m_Layer: 5
-  m_Name: Loading Text
+  m_Name: Quit Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -161,10 +161,10 @@ RectTransform:
   m_Father: {fileID: 2542014391694733375}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 536, y: -181}
-  m_SizeDelta: {x: 453.757, y: 113.757}
+  m_AnchorMin: {x: 1, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: -424, y: -182}
+  m_SizeDelta: {x: 453.75696, y: 113.75702}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2542014390105161253
 CanvasRenderer:
@@ -407,7 +407,7 @@ MonoBehaviour:
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1920, y: 1080}
-  m_ScreenMatchMode: 0
+  m_ScreenMatchMode: 2
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
