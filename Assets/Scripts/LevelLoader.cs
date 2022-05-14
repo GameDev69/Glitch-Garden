@@ -16,7 +16,6 @@ public class LevelLoader : MonoBehaviour
             StartCoroutine(LoadStartScene()); 
         }
     }
-
     private IEnumerator LoadStartScene()
     {
         yield return new WaitForSeconds(timeToWait);
