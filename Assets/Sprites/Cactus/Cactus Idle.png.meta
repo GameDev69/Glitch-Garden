@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 130
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -143,10 +143,10 @@ TextureImporter:
       name: Cactus Idle_0
       rect:
         serializedVersion: 2
-        x: 254
-        y: 997
-        width: 9
-        height: 6
+        x: 0
+        y: 882
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,10 +164,10 @@ TextureImporter:
       name: Cactus Idle_1
       rect:
         serializedVersion: 2
-        x: 416
-        y: 999
-        width: 9
-        height: 6
+        x: 157
+        y: 882
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,10 +185,10 @@ TextureImporter:
       name: Cactus Idle_2
       rect:
         serializedVersion: 2
-        x: 586
-        y: 1002
-        width: 9
-        height: 6
+        x: 314
+        y: 882
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,10 +206,10 @@ TextureImporter:
       name: Cactus Idle_3
       rect:
         serializedVersion: 2
-        x: 10
+        x: 471
         y: 882
-        width: 136
-        height: 118
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,10 +227,10 @@ TextureImporter:
       name: Cactus Idle_4
       rect:
         serializedVersion: 2
-        x: 167
+        x: 628
         y: 882
-        width: 136
-        height: 115
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,10 +248,10 @@ TextureImporter:
       name: Cactus Idle_5
       rect:
         serializedVersion: 2
-        x: 324
+        x: 785
         y: 882
-        width: 136
-        height: 112
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,10 +269,10 @@ TextureImporter:
       name: Cactus Idle_6
       rect:
         serializedVersion: 2
-        x: 481
-        y: 882
-        width: 136
-        height: 110
+        x: 0
+        y: 756
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,10 +290,10 @@ TextureImporter:
       name: Cactus Idle_7
       rect:
         serializedVersion: 2
-        x: 638
-        y: 882
-        width: 136
-        height: 108
+        x: 157
+        y: 756
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,10 +311,10 @@ TextureImporter:
       name: Cactus Idle_8
       rect:
         serializedVersion: 2
-        x: 795
-        y: 882
-        width: 135
-        height: 105
+        x: 314
+        y: 756
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,10 +332,10 @@ TextureImporter:
       name: Cactus Idle_9
       rect:
         serializedVersion: 2
-        x: 481
+        x: 471
         y: 756
-        width: 136
-        height: 118
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,10 +353,10 @@ TextureImporter:
       name: Cactus Idle_10
       rect:
         serializedVersion: 2
-        x: 563
-        y: 869
-        width: 9
-        height: 5
+        x: 628
+        y: 756
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,10 +374,10 @@ TextureImporter:
       name: Cactus Idle_11
       rect:
         serializedVersion: 2
-        x: 728
-        y: 871
-        width: 9
-        height: 5
+        x: 785
+        y: 756
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,10 +395,10 @@ TextureImporter:
       name: Cactus Idle_12
       rect:
         serializedVersion: 2
-        x: 894
-        y: 873
-        width: 9
-        height: 5
+        x: 0
+        y: 630
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -416,10 +416,10 @@ TextureImporter:
       name: Cactus Idle_13
       rect:
         serializedVersion: 2
-        x: 10
-        y: 756
-        width: 135
-        height: 103
+        x: 157
+        y: 630
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -437,10 +437,10 @@ TextureImporter:
       name: Cactus Idle_14
       rect:
         serializedVersion: 2
-        x: 167
-        y: 756
-        width: 135
-        height: 105
+        x: 314
+        y: 630
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,10 +458,10 @@ TextureImporter:
       name: Cactus Idle_15
       rect:
         serializedVersion: 2
-        x: 324
-        y: 756
-        width: 136
-        height: 107
+        x: 471
+        y: 630
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -479,10 +479,10 @@ TextureImporter:
       name: Cactus Idle_16
       rect:
         serializedVersion: 2
-        x: 638
-        y: 756
-        width: 136
-        height: 113
+        x: 628
+        y: 630
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,10 +500,10 @@ TextureImporter:
       name: Cactus Idle_17
       rect:
         serializedVersion: 2
-        x: 795
-        y: 756
-        width: 136
-        height: 113
+        x: 785
+        y: 630
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -521,10 +521,10 @@ TextureImporter:
       name: Cactus Idle_18
       rect:
         serializedVersion: 2
-        x: 125
-        y: 750
-        width: 9
-        height: 5
+        x: 0
+        y: 504
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,10 +542,10 @@ TextureImporter:
       name: Cactus Idle_19
       rect:
         serializedVersion: 2
-        x: 725
-        y: 745
-        width: 9
-        height: 6
+        x: 157
+        y: 504
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -563,10 +563,10 @@ TextureImporter:
       name: Cactus Idle_20
       rect:
         serializedVersion: 2
-        x: 887
-        y: 747
-        width: 9
-        height: 6
+        x: 314
+        y: 504
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -584,10 +584,10 @@ TextureImporter:
       name: Cactus Idle_21
       rect:
         serializedVersion: 2
-        x: 10
-        y: 630
-        width: 136
-        height: 115
+        x: 471
+        y: 504
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -605,10 +605,10 @@ TextureImporter:
       name: Cactus Idle_22
       rect:
         serializedVersion: 2
-        x: 167
-        y: 630
-        width: 136
-        height: 117
+        x: 628
+        y: 504
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -626,10 +626,10 @@ TextureImporter:
       name: Cactus Idle_23
       rect:
         serializedVersion: 2
-        x: 324
-        y: 630
-        width: 136
-        height: 117
+        x: 785
+        y: 504
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -647,10 +647,10 @@ TextureImporter:
       name: Cactus Idle_24
       rect:
         serializedVersion: 2
-        x: 481
-        y: 630
-        width: 136
-        height: 118
+        x: 0
+        y: 378
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -668,10 +668,10 @@ TextureImporter:
       name: Cactus Idle_25
       rect:
         serializedVersion: 2
-        x: 638
-        y: 630
-        width: 136
-        height: 115
+        x: 157
+        y: 378
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -689,10 +689,10 @@ TextureImporter:
       name: Cactus Idle_26
       rect:
         serializedVersion: 2
-        x: 795
-        y: 630
-        width: 136
-        height: 112
+        x: 314
+        y: 378
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -710,10 +710,10 @@ TextureImporter:
       name: Cactus Idle_27
       rect:
         serializedVersion: 2
-        x: 115
-        y: 624
-        width: 9
-        height: 6
+        x: 471
+        y: 378
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -731,10 +731,10 @@ TextureImporter:
       name: Cactus Idle_28
       rect:
         serializedVersion: 2
-        x: 10
-        y: 504
-        width: 136
-        height: 110
+        x: 628
+        y: 378
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -752,10 +752,10 @@ TextureImporter:
       name: Cactus Idle_29
       rect:
         serializedVersion: 2
-        x: 167
-        y: 504
-        width: 136
-        height: 108
+        x: 785
+        y: 378
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -773,10 +773,10 @@ TextureImporter:
       name: Cactus Idle_30
       rect:
         serializedVersion: 2
-        x: 324
-        y: 504
-        width: 135
-        height: 105
+        x: 0
+        y: 252
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -794,10 +794,10 @@ TextureImporter:
       name: Cactus Idle_31
       rect:
         serializedVersion: 2
-        x: 481
-        y: 504
-        width: 135
-        height: 103
+        x: 157
+        y: 252
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -815,10 +815,10 @@ TextureImporter:
       name: Cactus Idle_32
       rect:
         serializedVersion: 2
-        x: 638
-        y: 504
-        width: 135
-        height: 105
+        x: 314
+        y: 252
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -836,10 +836,10 @@ TextureImporter:
       name: Cactus Idle_33
       rect:
         serializedVersion: 2
-        x: 795
-        y: 504
-        width: 136
-        height: 107
+        x: 471
+        y: 252
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -857,10 +857,10 @@ TextureImporter:
       name: Cactus Idle_34
       rect:
         serializedVersion: 2
-        x: 423
-        y: 495
-        width: 9
-        height: 5
+        x: 628
+        y: 252
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -878,10 +878,10 @@ TextureImporter:
       name: Cactus Idle_35
       rect:
         serializedVersion: 2
-        x: 596
-        y: 498
-        width: 9
-        height: 5
+        x: 785
+        y: 252
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -899,10 +899,10 @@ TextureImporter:
       name: Cactus Idle_36
       rect:
         serializedVersion: 2
-        x: 10
-        y: 378
-        width: 136
-        height: 118
+        x: 0
+        y: 126
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -920,10 +920,10 @@ TextureImporter:
       name: Cactus Idle_37
       rect:
         serializedVersion: 2
-        x: 92
-        y: 491
-        width: 9
-        height: 5
+        x: 157
+        y: 126
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -941,10 +941,10 @@ TextureImporter:
       name: Cactus Idle_38
       rect:
         serializedVersion: 2
-        x: 257
-        y: 493
-        width: 9
-        height: 5
+        x: 314
+        y: 126
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -962,10 +962,10 @@ TextureImporter:
       name: Cactus Idle_39
       rect:
         serializedVersion: 2
-        x: 638
-        y: 378
-        width: 136
-        height: 117
+        x: 471
+        y: 126
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -983,10 +983,10 @@ TextureImporter:
       name: Cactus Idle_40
       rect:
         serializedVersion: 2
-        x: 795
-        y: 378
-        width: 136
-        height: 117
+        x: 628
+        y: 126
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1004,10 +1004,10 @@ TextureImporter:
       name: Cactus Idle_41
       rect:
         serializedVersion: 2
-        x: 167
-        y: 378
-        width: 136
-        height: 113
+        x: 785
+        y: 126
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1025,10 +1025,10 @@ TextureImporter:
       name: Cactus Idle_42
       rect:
         serializedVersion: 2
-        x: 324
-        y: 378
-        width: 136
-        height: 113
+        x: 0
+        y: 0
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1046,10 +1046,10 @@ TextureImporter:
       name: Cactus Idle_43
       rect:
         serializedVersion: 2
-        x: 481
-        y: 378
-        width: 136
-        height: 115
+        x: 157
+        y: 0
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1059,447 +1059,6 @@ TextureImporter:
       bones: []
       spriteID: 9b9c81551155209419626927c37a8d25
       internalID: 655210189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_44
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 367
-        width: 9
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6204d29ed58724d40b77ccddd65eac29
-      internalID: -1003728618
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_45
-      rect:
-        serializedVersion: 2
-        x: 416
-        y: 369
-        width: 9
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 69d8bc4e0d8ac14489dbd22a82c76a39
-      internalID: -1573718338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_46
-      rect:
-        serializedVersion: 2
-        x: 586
-        y: 372
-        width: 9
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68aeb921bc29d1542953b7c56257cc45
-      internalID: -1055044975
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_47
-      rect:
-        serializedVersion: 2
-        x: 10
-        y: 252
-        width: 136
-        height: 118
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 21267e58ee998304c803f956e033d117
-      internalID: 1200960598
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_48
-      rect:
-        serializedVersion: 2
-        x: 167
-        y: 252
-        width: 136
-        height: 115
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c108cc008c0515f43942d7c3ec478a7f
-      internalID: 854560085
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_49
-      rect:
-        serializedVersion: 2
-        x: 324
-        y: 252
-        width: 136
-        height: 112
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 73048244815a8e548905563aa188936c
-      internalID: 1455808761
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_50
-      rect:
-        serializedVersion: 2
-        x: 481
-        y: 252
-        width: 136
-        height: 110
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d4972ac81d9cd44aa9f798fd7732d8c
-      internalID: 1918563144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_51
-      rect:
-        serializedVersion: 2
-        x: 638
-        y: 252
-        width: 136
-        height: 108
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a94bbf682aca86b46aff64bd3aed133b
-      internalID: 2076639421
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_52
-      rect:
-        serializedVersion: 2
-        x: 795
-        y: 252
-        width: 135
-        height: 105
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d5aebee5cdc0e534caf86f2feff05f74
-      internalID: -665426089
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_53
-      rect:
-        serializedVersion: 2
-        x: 481
-        y: 126
-        width: 136
-        height: 118
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d5fc5f024bda874ea1714adb03c648c
-      internalID: -272920257
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_54
-      rect:
-        serializedVersion: 2
-        x: 563
-        y: 239
-        width: 9
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3803b066efa22744a96376d02b7fe90d
-      internalID: 1257928865
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_55
-      rect:
-        serializedVersion: 2
-        x: 728
-        y: 241
-        width: 9
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d1e24097c2ca3b841b121c2b5401ff2a
-      internalID: 1958311973
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_56
-      rect:
-        serializedVersion: 2
-        x: 894
-        y: 243
-        width: 9
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f7d13dc6580272c44a7be5436097a4ab
-      internalID: 1483160212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_57
-      rect:
-        serializedVersion: 2
-        x: 10
-        y: 126
-        width: 135
-        height: 103
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a64ece3b5ef47a48a97389d5a2a10ae
-      internalID: 1703070176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_58
-      rect:
-        serializedVersion: 2
-        x: 167
-        y: 126
-        width: 135
-        height: 105
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 30111b064dc706542b8db3776a66794c
-      internalID: 1523440775
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_59
-      rect:
-        serializedVersion: 2
-        x: 324
-        y: 126
-        width: 136
-        height: 107
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ed78c08bb1a4c5b458eeaa63b71df73b
-      internalID: 897815543
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_60
-      rect:
-        serializedVersion: 2
-        x: 638
-        y: 126
-        width: 136
-        height: 113
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ffba35941d7c0342a43956f3cc73e5c
-      internalID: 274698686
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_61
-      rect:
-        serializedVersion: 2
-        x: 795
-        y: 126
-        width: 136
-        height: 113
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 239decc6bdd91af4ea7e3dc7bf490da1
-      internalID: 1767317228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_62
-      rect:
-        serializedVersion: 2
-        x: 125
-        y: 120
-        width: 9
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4940769566970d14cb5842ea745a95b4
-      internalID: -1121020087
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_63
-      rect:
-        serializedVersion: 2
-        x: 10
-        y: 0
-        width: 136
-        height: 115
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f209d8c2017080943ac0f8ccdd3cc394
-      internalID: 86658361
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cactus Idle_64
-      rect:
-        serializedVersion: 2
-        x: 167
-        y: 0
-        width: 136
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71cc6f2884ba6284587c3b54d594e9d3
-      internalID: 1614780871
       vertices: []
       indices: 
       edges: []
@@ -1516,70 +1075,49 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Cactus Idle_7: -1694188200
-      Cactus Idle_52: -665426089
-      Cactus Idle_49: 1455808761
-      Cactus Idle_10: -471752650
+      Cactus Idle_14: -637270309
       Cactus Idle_32: 1590675419
       Cactus Idle_26: 1427729361
       Cactus Idle_41: -1133622017
       Cactus Idle_31: -1728729035
       Cactus Idle_4: -103061757
       Cactus Idle_12: -1865425050
-      Cactus Idle_46: -1055044975
       Cactus Idle_13: 2142199681
       Cactus Idle_11: 1559139893
       Cactus Idle_5: 1617949023
       Cactus Idle_42: 1532105400
-      Cactus Idle_53: -272920257
-      Cactus Idle_45: -1573718338
       Cactus Idle_6: 1895657712
       Cactus Idle_22: -1899237103
       Cactus Idle_9: 1692777307
       Cactus Idle_35: 1249237874
-      Cactus Idle_48: 854560085
       Cactus Idle_20: -2125138338
-      Cactus Idle_62: -1121020087
-      Cactus Idle_57: 1703070176
-      Cactus Idle_56: 1483160212
       Cactus Idle_29: -247399923
-      Cactus Idle_54: 1257928865
-      Cactus Idle_59: 897815543
       Cactus Idle_15: -1332235701
       Cactus Idle_23: -587436328
       Cactus Idle_8: 1958627669
       Cactus Idle_24: -667159573
       Cactus Idle_17: -2014391832
       Cactus Idle_36: 2078062393
-      Cactus Idle_63: 86658361
       Cactus Idle_25: -1882558905
-      Cactus Idle_51: 2076639421
-      Cactus Idle_61: 1767317228
       Cactus Idle_2: -1534438682
       Cactus Idle_28: 812852643
-      Cactus Idle_39: -1000091740
       Cactus Idle_16: 1274231775
-      Cactus Idle_50: 1918563144
+      Cactus Idle_39: -1000091740
       Cactus Idle_33: -242447687
       Cactus Idle_21: 106051806
       Cactus Idle_30: 1978073402
-      Cactus Idle_58: 1523440775
       Cactus Idle_19: -2122798656
       Cactus Idle_1: 270252468
       Cactus Idle_0: -430885269
       Cactus Idle_27: -935378680
-      Cactus Idle_44: -1003728618
       Cactus Idle_37: -1856269112
-      Cactus Idle_55: 1958311973
-      Cactus Idle_64: 1614780871
-      Cactus Idle_47: 1200960598
       Cactus Idle_38: 584323446
       Cactus Idle_40: 1150659508
       Cactus Idle_34: 691507997
       Cactus Idle_43: 655210189
-      Cactus Idle_60: 274698686
+      Cactus Idle_10: -471752650
       Cactus Idle_3: -545941549
       Cactus Idle_18: -981962280
-      Cactus Idle_14: -637270309
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
