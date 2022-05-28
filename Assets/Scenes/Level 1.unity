@@ -409,6 +409,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &310873652 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5878880872924045273, guid: 6ff1718d7273e884aa95438d8bcfebfe, type: 3}
+  m_PrefabInstance: {fileID: 3069046323711363256}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &329636767
 GameObject:
   m_ObjectHideFlags: 0
@@ -1396,9 +1401,9 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1285266598546289485, guid: 6ff1718d7273e884aa95438d8bcfebfe, type: 3}
-      propertyPath: projectile
+      propertyPath: gun
       value: 
-      objectReference: {fileID: 4602150368421608575, guid: 6c71db034f958264d9aeb2dd9162aaac, type: 3}
+      objectReference: {fileID: 310873652}
     - target: {fileID: 3069046322345280195, guid: 6ff1718d7273e884aa95438d8bcfebfe, type: 3}
       propertyPath: m_Name
       value: Cactus
