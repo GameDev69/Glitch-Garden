@@ -11,7 +11,9 @@ GameObject:
   - component: {fileID: 1709081433348364337}
   - component: {fileID: 6997441051823484872}
   - component: {fileID: -218966650095472867}
-  m_Layer: 0
+  - component: {fileID: -1005880688139495690}
+  - component: {fileID: -5360941594546653877}
+  m_Layer: 8
   m_Name: Zucchini
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -99,3 +101,70 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speedMoving: 5
   speedRotation: 5
+  damage: 50
+--- !u!60 &-1005880688139495690
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4602150368421608575}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.56, y: 0.56}
+    newSize: {x: 0.56, y: 0.56}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.16500092, y: 0.2896042}
+      - {x: -0.2305744, y: 0.27739862}
+      - {x: -0.27381325, y: 0.23132467}
+      - {x: -0.28635883, y: 0.18124604}
+      - {x: -0.25398663, y: 0.13520253}
+      - {x: -0.23699331, y: 0.110405296}
+      - {x: -0.12792253, y: 0.060560465}
+      - {x: -0.06803131, y: 0.028389215}
+      - {x: 0.013810635, y: -0.04280305}
+      - {x: 0.07666159, y: -0.11693573}
+      - {x: 0.12782526, y: -0.2058723}
+      - {x: 0.168615, y: -0.27739862}
+      - {x: 0.23394632, y: -0.28245497}
+      - {x: 0.28260067, y: -0.24618247}
+      - {x: 0.29361868, y: -0.18236709}
+      - {x: 0.24358109, y: -0.08520277}
+      - {x: 0.23645115, y: -0.037763596}
+      - {x: 0.19358107, y: 0.0309797}
+      - {x: -0.02560831, y: 0.22577691}
+      - {x: -0.08520277, y: 0.2695947}
+--- !u!50 &-5360941594546653877
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4602150368421608575}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
