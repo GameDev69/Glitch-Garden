@@ -2,15 +2,22 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class DefenderSpawner : MonoBehaviour
 {
 
-    [SerializeField] private GameObject defeder;
+    private Defender _defender;
     
     private void OnMouseDown()
     {
+        if (_defender == null) return;
         SpawnDefender(GetSquareClicked());
+    }
+
+    public void SetSelectedDefender(Defender defenderToSelect)
+    {
+        _defender = defenderToSelect;
     }
     
     private Vector2 GetSquareClicked()
@@ -30,6 +37,6 @@ public class DefenderSpawner : MonoBehaviour
     
     private void SpawnDefender(Vector2 roundedPos)
     {
-        GameObject newDefener = Instantiate(defeder, roundedPos, Quaternion.identity) as GameObject;
+        Defender newDefener = Instantiate(_defender, roundedPos, Quaternion.identity) as Defender;
     }
 }

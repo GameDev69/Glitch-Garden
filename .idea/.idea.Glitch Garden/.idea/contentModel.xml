@@ -10,6 +10,7 @@
         <e p="Scripts" t="Include">
           <e p="Attacker.cs" t="Include" />
           <e p="AttackerSpawner.cs" t="Include" />
+          <e p="Defender.cs" t="Include" />
           <e p="DefenderButton.cs" t="Include" />
           <e p="DefenderSpawner.cs" t="Include" />
           <e p="Health.cs" t="Include" />
