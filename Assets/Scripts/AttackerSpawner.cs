@@ -10,8 +10,6 @@ public class AttackerSpawner : MonoBehaviour
     
     private bool _spawn = true;
     
-
-    // Start is called before the first frame update
     IEnumerator Start()
     {
         while (_spawn)
@@ -23,10 +21,12 @@ public class AttackerSpawner : MonoBehaviour
 
     private void SpawnAttacker()
     {
-        Instantiate(attackerPrefab, transform.position, transform.rotation);
+        Attacker newAttacker = Instantiate
+            (attackerPrefab, transform.position, transform.rotation) as Attacker;
+        newAttacker.transform.parent = transform;
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         
