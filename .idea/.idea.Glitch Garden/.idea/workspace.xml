@@ -21,14 +21,15 @@
   <component name="ChangeListManager">
     <list default="true" id="62b33eb2-d555-47c8-89ec-a4a1ed883db1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Defenders/Cactus Idle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Defenders/Cactus Idle.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Defenders/Cactus.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Defenders/Cactus.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Lizard.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Lizard.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Spawner.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Spawner.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Trophy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Trophy.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Projectiles/Axe Throw.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Projectiles/Axe Throw.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Projectiles/Axe.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Projectiles/Axe.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Spawner.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Spawner.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Shooter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Shooter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/VFX/JMO Assets/Cartoon FX/CFX2 Prefabs/Skull &amp; Ghosts Effects/CFX2_EnemyDeathSkull.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VFX/JMO Assets/Cartoon FX/CFX2 Prefabs/Skull &amp; Ghosts Effects/CFX2_EnemyDeathSkull.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Gnome Hop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Gnome Hop.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Gnome Idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Gnome Idle.png.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +137,8 @@
       <workItem from="1658236867215" duration="6911000" />
       <workItem from="1658251119824" duration="4127000" />
       <workItem from="1658305457591" duration="1300000" />
-      <workItem from="1658582885701" duration="1832000" />
+      <workItem from="1658582885701" duration="2561000" />
+      <workItem from="1658686154962" duration="4019000" />
     </task>
     <servers />
   </component>
