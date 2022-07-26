@@ -66,7 +66,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -143,12 +143,12 @@ TextureImporter:
       name: Lizard Attacking_0
       rect:
         serializedVersion: 2
-        x: 36
-        y: 950
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 0
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -164,12 +164,12 @@ TextureImporter:
       name: Lizard Attacking_1
       rect:
         serializedVersion: 2
-        x: 286
-        y: 950
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 251
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -185,12 +185,12 @@ TextureImporter:
       name: Lizard Attacking_2
       rect:
         serializedVersion: 2
-        x: 538
-        y: 950
-        width: 82
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 502
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -206,12 +206,12 @@ TextureImporter:
       name: Lizard Attacking_3
       rect:
         serializedVersion: 2
-        x: 788
-        y: 950
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 753
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -227,12 +227,12 @@ TextureImporter:
       name: Lizard Attacking_4
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 950
-        width: 82
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1004
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -248,12 +248,12 @@ TextureImporter:
       name: Lizard Attacking_5
       rect:
         serializedVersion: 2
-        x: 1290
-        y: 950
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1255
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -269,12 +269,12 @@ TextureImporter:
       name: Lizard Attacking_6
       rect:
         serializedVersion: 2
-        x: 1541
-        y: 950
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1506
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -290,12 +290,12 @@ TextureImporter:
       name: Lizard Attacking_7
       rect:
         serializedVersion: 2
-        x: 1793
-        y: 950
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1757
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -311,12 +311,12 @@ TextureImporter:
       name: Lizard Attacking_8
       rect:
         serializedVersion: 2
-        x: 2043
-        y: 950
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2008
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -332,12 +332,12 @@ TextureImporter:
       name: Lizard Attacking_9
       rect:
         serializedVersion: 2
-        x: 2294
-        y: 950
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2259
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -353,12 +353,12 @@ TextureImporter:
       name: Lizard Attacking_10
       rect:
         serializedVersion: 2
-        x: 2545
-        y: 950
-        width: 85
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2510
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -374,12 +374,12 @@ TextureImporter:
       name: Lizard Attacking_11
       rect:
         serializedVersion: 2
-        x: 2797
-        y: 950
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2761
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -395,12 +395,12 @@ TextureImporter:
       name: Lizard Attacking_12
       rect:
         serializedVersion: 2
-        x: 3047
-        y: 950
-        width: 85
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 3012
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -416,12 +416,12 @@ TextureImporter:
       name: Lizard Attacking_13
       rect:
         serializedVersion: 2
-        x: 3299
-        y: 950
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 3263
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -437,12 +437,12 @@ TextureImporter:
       name: Lizard Attacking_14
       rect:
         serializedVersion: 2
-        x: 3549
-        y: 950
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 3514
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -458,12 +458,12 @@ TextureImporter:
       name: Lizard Attacking_15
       rect:
         serializedVersion: 2
-        x: 36
-        y: 764
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 0
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -479,12 +479,12 @@ TextureImporter:
       name: Lizard Attacking_16
       rect:
         serializedVersion: 2
-        x: 286
-        y: 764
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 251
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -500,12 +500,12 @@ TextureImporter:
       name: Lizard Attacking_17
       rect:
         serializedVersion: 2
-        x: 538
-        y: 764
-        width: 82
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 502
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -521,12 +521,12 @@ TextureImporter:
       name: Lizard Attacking_18
       rect:
         serializedVersion: 2
-        x: 789
-        y: 764
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 753
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -542,12 +542,12 @@ TextureImporter:
       name: Lizard Attacking_19
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 764
-        width: 82
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1004
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -563,12 +563,12 @@ TextureImporter:
       name: Lizard Attacking_20
       rect:
         serializedVersion: 2
-        x: 1290
-        y: 764
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1255
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -584,12 +584,12 @@ TextureImporter:
       name: Lizard Attacking_21
       rect:
         serializedVersion: 2
-        x: 1541
-        y: 764
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1506
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -605,12 +605,12 @@ TextureImporter:
       name: Lizard Attacking_22
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 764
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1757
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -626,12 +626,12 @@ TextureImporter:
       name: Lizard Attacking_23
       rect:
         serializedVersion: 2
-        x: 2043
-        y: 764
-        width: 83
-        height: 91
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2008
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -647,12 +647,12 @@ TextureImporter:
       name: Lizard Attacking_24
       rect:
         serializedVersion: 2
-        x: 2293
-        y: 764
-        width: 85
-        height: 91
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2259
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -668,12 +668,12 @@ TextureImporter:
       name: Lizard Attacking_25
       rect:
         serializedVersion: 2
-        x: 2543
-        y: 764
-        width: 87
-        height: 91
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2510
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -689,12 +689,12 @@ TextureImporter:
       name: Lizard Attacking_26
       rect:
         serializedVersion: 2
-        x: 2795
-        y: 764
-        width: 85
-        height: 91
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2761
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -710,12 +710,12 @@ TextureImporter:
       name: Lizard Attacking_27
       rect:
         serializedVersion: 2
-        x: 3046
-        y: 764
-        width: 86
-        height: 91
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 3012
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -731,12 +731,12 @@ TextureImporter:
       name: Lizard Attacking_28
       rect:
         serializedVersion: 2
-        x: 3297
-        y: 764
-        width: 85
-        height: 91
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 3263
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -752,12 +752,12 @@ TextureImporter:
       name: Lizard Attacking_29
       rect:
         serializedVersion: 2
-        x: 3549
-        y: 764
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 3514
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -773,12 +773,12 @@ TextureImporter:
       name: Lizard Attacking_30
       rect:
         serializedVersion: 2
-        x: 34
-        y: 578
-        width: 85
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 0
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -794,12 +794,12 @@ TextureImporter:
       name: Lizard Attacking_31
       rect:
         serializedVersion: 2
-        x: 286
-        y: 578
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 251
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -815,12 +815,12 @@ TextureImporter:
       name: Lizard Attacking_32
       rect:
         serializedVersion: 2
-        x: 538
-        y: 578
-        width: 82
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 502
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -836,12 +836,12 @@ TextureImporter:
       name: Lizard Attacking_33
       rect:
         serializedVersion: 2
-        x: 789
-        y: 578
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 753
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -857,12 +857,12 @@ TextureImporter:
       name: Lizard Attacking_34
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 578
-        width: 82
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1004
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -878,12 +878,12 @@ TextureImporter:
       name: Lizard Attacking_35
       rect:
         serializedVersion: 2
-        x: 1291
-        y: 578
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1255
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -899,12 +899,12 @@ TextureImporter:
       name: Lizard Attacking_36
       rect:
         serializedVersion: 2
-        x: 1542
-        y: 578
-        width: 82
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1506
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -920,12 +920,12 @@ TextureImporter:
       name: Lizard Attacking_37
       rect:
         serializedVersion: 2
-        x: 1792
-        y: 578
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1757
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -941,12 +941,12 @@ TextureImporter:
       name: Lizard Attacking_38
       rect:
         serializedVersion: 2
-        x: 2043
-        y: 578
-        width: 85
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2008
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -962,12 +962,12 @@ TextureImporter:
       name: Lizard Attacking_39
       rect:
         serializedVersion: 2
-        x: 2294
-        y: 578
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2259
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -983,12 +983,12 @@ TextureImporter:
       name: Lizard Attacking_40
       rect:
         serializedVersion: 2
-        x: 2545
-        y: 578
-        width: 85
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2510
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1004,12 +1004,12 @@ TextureImporter:
       name: Lizard Attacking_41
       rect:
         serializedVersion: 2
-        x: 2797
-        y: 578
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2761
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1025,12 +1025,12 @@ TextureImporter:
       name: Lizard Attacking_42
       rect:
         serializedVersion: 2
-        x: 3047
-        y: 578
-        width: 85
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 3012
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1046,12 +1046,12 @@ TextureImporter:
       name: Lizard Attacking_43
       rect:
         serializedVersion: 2
-        x: 3299
-        y: 578
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 3263
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1067,12 +1067,12 @@ TextureImporter:
       name: Lizard Attacking_44
       rect:
         serializedVersion: 2
-        x: 3549
-        y: 578
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 3514
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1088,12 +1088,12 @@ TextureImporter:
       name: Lizard Attacking_45
       rect:
         serializedVersion: 2
-        x: 36
-        y: 393
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 0
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1109,12 +1109,12 @@ TextureImporter:
       name: Lizard Attacking_46
       rect:
         serializedVersion: 2
-        x: 286
-        y: 393
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 251
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1130,12 +1130,12 @@ TextureImporter:
       name: Lizard Attacking_47
       rect:
         serializedVersion: 2
-        x: 538
-        y: 393
-        width: 82
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 502
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1151,12 +1151,12 @@ TextureImporter:
       name: Lizard Attacking_48
       rect:
         serializedVersion: 2
-        x: 788
-        y: 393
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 753
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1172,12 +1172,12 @@ TextureImporter:
       name: Lizard Attacking_49
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 393
-        width: 82
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1004
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1193,12 +1193,12 @@ TextureImporter:
       name: Lizard Attacking_50
       rect:
         serializedVersion: 2
-        x: 1290
-        y: 393
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1255
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1214,12 +1214,12 @@ TextureImporter:
       name: Lizard Attacking_51
       rect:
         serializedVersion: 2
-        x: 1541
-        y: 393
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1506
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1235,12 +1235,12 @@ TextureImporter:
       name: Lizard Attacking_52
       rect:
         serializedVersion: 2
-        x: 1793
-        y: 393
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1757
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1256,12 +1256,12 @@ TextureImporter:
       name: Lizard Attacking_53
       rect:
         serializedVersion: 2
-        x: 2043
-        y: 393
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2008
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1277,12 +1277,12 @@ TextureImporter:
       name: Lizard Attacking_54
       rect:
         serializedVersion: 2
-        x: 2295
-        y: 393
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2259
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1298,12 +1298,12 @@ TextureImporter:
       name: Lizard Attacking_55
       rect:
         serializedVersion: 2
-        x: 2545
-        y: 393
-        width: 85
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2510
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1319,12 +1319,12 @@ TextureImporter:
       name: Lizard Attacking_56
       rect:
         serializedVersion: 2
-        x: 2797
-        y: 393
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2761
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1340,12 +1340,12 @@ TextureImporter:
       name: Lizard Attacking_57
       rect:
         serializedVersion: 2
-        x: 3047
-        y: 393
-        width: 85
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 3012
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1361,12 +1361,12 @@ TextureImporter:
       name: Lizard Attacking_58
       rect:
         serializedVersion: 2
-        x: 3299
-        y: 393
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 3263
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1382,12 +1382,12 @@ TextureImporter:
       name: Lizard Attacking_59
       rect:
         serializedVersion: 2
-        x: 3549
-        y: 393
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 3514
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1403,12 +1403,12 @@ TextureImporter:
       name: Lizard Attacking_60
       rect:
         serializedVersion: 2
-        x: 36
-        y: 205
-        width: 83
-        height: 92
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 0
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1424,12 +1424,12 @@ TextureImporter:
       name: Lizard Attacking_61
       rect:
         serializedVersion: 2
-        x: 286
-        y: 205
-        width: 84
-        height: 92
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 251
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1445,12 +1445,12 @@ TextureImporter:
       name: Lizard Attacking_62
       rect:
         serializedVersion: 2
-        x: 538
-        y: 205
-        width: 82
-        height: 92
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 502
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1466,12 +1466,12 @@ TextureImporter:
       name: Lizard Attacking_63
       rect:
         serializedVersion: 2
-        x: 788
-        y: 205
-        width: 84
-        height: 92
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 753
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1487,12 +1487,12 @@ TextureImporter:
       name: Lizard Attacking_64
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 205
-        width: 82
-        height: 92
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1004
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1508,12 +1508,12 @@ TextureImporter:
       name: Lizard Attacking_65
       rect:
         serializedVersion: 2
-        x: 1290
-        y: 205
-        width: 84
-        height: 92
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1255
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1529,12 +1529,12 @@ TextureImporter:
       name: Lizard Attacking_66
       rect:
         serializedVersion: 2
-        x: 1541
-        y: 205
-        width: 84
-        height: 92
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1506
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1550,12 +1550,12 @@ TextureImporter:
       name: Lizard Attacking_67
       rect:
         serializedVersion: 2
-        x: 1793
-        y: 205
-        width: 83
-        height: 92
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1757
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1571,12 +1571,12 @@ TextureImporter:
       name: Lizard Attacking_68
       rect:
         serializedVersion: 2
-        x: 2043
-        y: 205
-        width: 85
-        height: 92
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2008
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1592,12 +1592,12 @@ TextureImporter:
       name: Lizard Attacking_69
       rect:
         serializedVersion: 2
-        x: 2295
-        y: 205
-        width: 83
-        height: 92
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2259
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1613,12 +1613,12 @@ TextureImporter:
       name: Lizard Attacking_70
       rect:
         serializedVersion: 2
-        x: 2545
-        y: 205
-        width: 85
-        height: 92
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2510
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1634,12 +1634,12 @@ TextureImporter:
       name: Lizard Attacking_71
       rect:
         serializedVersion: 2
-        x: 2797
-        y: 205
-        width: 83
-        height: 92
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2761
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1655,12 +1655,12 @@ TextureImporter:
       name: Lizard Attacking_72
       rect:
         serializedVersion: 2
-        x: 3047
-        y: 205
-        width: 85
-        height: 92
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 3012
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1676,12 +1676,12 @@ TextureImporter:
       name: Lizard Attacking_73
       rect:
         serializedVersion: 2
-        x: 3299
-        y: 205
-        width: 83
-        height: 92
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 3263
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1697,12 +1697,12 @@ TextureImporter:
       name: Lizard Attacking_74
       rect:
         serializedVersion: 2
-        x: 3549
-        y: 205
-        width: 84
-        height: 92
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 3514
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1718,12 +1718,12 @@ TextureImporter:
       name: Lizard Attacking_75
       rect:
         serializedVersion: 2
-        x: 36
-        y: 19
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 0
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1739,12 +1739,12 @@ TextureImporter:
       name: Lizard Attacking_76
       rect:
         serializedVersion: 2
-        x: 286
-        y: 19
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 251
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1760,12 +1760,12 @@ TextureImporter:
       name: Lizard Attacking_77
       rect:
         serializedVersion: 2
-        x: 538
-        y: 19
-        width: 82
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 502
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1781,12 +1781,12 @@ TextureImporter:
       name: Lizard Attacking_78
       rect:
         serializedVersion: 2
-        x: 788
-        y: 19
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 753
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1802,12 +1802,12 @@ TextureImporter:
       name: Lizard Attacking_79
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 19
-        width: 82
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1004
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1823,12 +1823,12 @@ TextureImporter:
       name: Lizard Attacking_80
       rect:
         serializedVersion: 2
-        x: 1290
-        y: 19
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1255
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1844,12 +1844,12 @@ TextureImporter:
       name: Lizard Attacking_81
       rect:
         serializedVersion: 2
-        x: 1541
-        y: 19
-        width: 84
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1506
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1865,12 +1865,12 @@ TextureImporter:
       name: Lizard Attacking_82
       rect:
         serializedVersion: 2
-        x: 1793
-        y: 19
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 1757
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1886,12 +1886,12 @@ TextureImporter:
       name: Lizard Attacking_83
       rect:
         serializedVersion: 2
-        x: 2043
-        y: 19
-        width: 85
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2008
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1907,12 +1907,12 @@ TextureImporter:
       name: Lizard Attacking_84
       rect:
         serializedVersion: 2
-        x: 2295
-        y: 19
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2259
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1928,12 +1928,12 @@ TextureImporter:
       name: Lizard Attacking_85
       rect:
         serializedVersion: 2
-        x: 2545
-        y: 19
-        width: 85
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2510
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1949,12 +1949,12 @@ TextureImporter:
       name: Lizard Attacking_86
       rect:
         serializedVersion: 2
-        x: 2797
-        y: 19
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 2761
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1970,12 +1970,12 @@ TextureImporter:
       name: Lizard Attacking_87
       rect:
         serializedVersion: 2
-        x: 3047
-        y: 19
-        width: 85
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 3012
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1991,12 +1991,12 @@ TextureImporter:
       name: Lizard Attacking_88
       rect:
         serializedVersion: 2
-        x: 3299
-        y: 19
-        width: 83
-        height: 90
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 3263
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

@@ -15,6 +15,7 @@
           <e p="DefenderSpawner.cs" t="Include" />
           <e p="Health.cs" t="Include" />
           <e p="LevelLoader.cs" t="Include" />
+          <e p="Lizard.cs" t="Include" />
           <e p="Projectile.cs" t="Include" />
           <e p="Shooter.cs" t="Include" />
           <e p="StarDisplay.cs" t="Include" />
