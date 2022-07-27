@@ -21,12 +21,25 @@
   <component name="ChangeListManager">
     <list default="true" id="62b33eb2-d555-47c8-89ec-a4a1ed883db1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Fox Walking.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Fox Walking.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Fox.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Fox.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard Attack.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard Attack.anim" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Attackers/Fox.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Attackers/Fox.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Attackers/Lizard.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Attackers/Lizard.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Defenders/Cactus.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Defenders/Cactus.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Defenders/Gnome.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Defenders/Gnome.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Defenders/Gravestone.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Defenders/Gravestone.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Defenders/Trophy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Defenders/Trophy.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Attacker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Attacker.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Lizard/Lizard Attacking.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Lizard/Lizard Attacking.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Fox/Fox Eating.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Fox/Fox Eating.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Fox/Fox Jump.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Fox/Fox Jump.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Fox/Fox Running.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Fox/Fox Running.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Fox/Fox Walking.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Fox/Fox Walking.png.meta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +54,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AttackerSpawner.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F1212AD1-DEC4-4CE7-B714-7976B91869C3/f0/1fb23e44/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Fox.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Defender.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lizard.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StarDisplay.cs" root0="FORCE_HIGHLIGHTING" />
@@ -59,8 +73,10 @@
         <option value="$PROJECT_DIR$/Assets/Animations/Defenders/Trophy Bounds.anim" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AttackerSpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Shooter.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Attacker.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Lizard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Attacker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gravestone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Fox.cs" />
       </list>
     </option>
   </component>
@@ -138,7 +154,7 @@
       <workItem from="1658305457591" duration="1300000" />
       <workItem from="1658582885701" duration="2561000" />
       <workItem from="1658686154962" duration="4019000" />
-      <workItem from="1658845466120" duration="755000" />
+      <workItem from="1658845466120" duration="8362000" />
     </task>
     <servers />
   </component>

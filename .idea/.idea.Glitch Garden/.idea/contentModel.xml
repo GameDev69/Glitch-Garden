@@ -13,6 +13,8 @@
           <e p="Defender.cs" t="Include" />
           <e p="DefenderButton.cs" t="Include" />
           <e p="DefenderSpawner.cs" t="Include" />
+          <e p="Fox.cs" t="Include" />
+          <e p="Gravestone.cs" t="Include" />
           <e p="Health.cs" t="Include" />
           <e p="LevelLoader.cs" t="Include" />
           <e p="Lizard.cs" t="Include" />
