@@ -17,7 +17,9 @@
           <e p="Gravestone.cs" t="Include" />
           <e p="Health.cs" t="Include" />
           <e p="LevelLoader.cs" t="Include" />
+          <e p="LivesDisplay.cs" t="Include" />
           <e p="Lizard.cs" t="Include" />
+          <e p="LoseCollider.cs" t="Include" />
           <e p="Projectile.cs" t="Include" />
           <e p="Shooter.cs" t="Include" />
           <e p="StarDisplay.cs" t="Include" />
