@@ -21,6 +21,11 @@ public class AttackerSpawner : MonoBehaviour
         }
     }
 
+    public void StopSpawning()
+    {
+        _spawn = false;
+    }
+
     private void SpawnAttacker()
     {
         if(attackerPrefabArray.Length == 0) return;

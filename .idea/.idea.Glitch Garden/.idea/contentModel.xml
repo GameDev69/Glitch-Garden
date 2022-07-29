@@ -17,6 +17,7 @@
           <e p="GameTimer.cs" t="Include" />
           <e p="Gravestone.cs" t="Include" />
           <e p="Health.cs" t="Include" />
+          <e p="LevelController.cs" t="Include" />
           <e p="LevelLoader.cs" t="Include" />
           <e p="LivesDisplay.cs" t="Include" />
           <e p="Lizard.cs" t="Include" />
