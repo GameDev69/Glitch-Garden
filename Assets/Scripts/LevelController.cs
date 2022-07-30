@@ -15,9 +15,10 @@ public class LevelController : MonoBehaviour
 
     private void Start()
     {
+        _winSFX = GetComponent<AudioSource>();
+        if(winLabel == null || loseLabel == null) return;
         winLabel.SetActive(false);
         loseLabel.SetActive(false);
-        _winSFX = GetComponent<AudioSource>();
     }
 
     public void AttackerSpawned()
