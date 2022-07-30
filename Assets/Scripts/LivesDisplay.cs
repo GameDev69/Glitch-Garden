@@ -21,7 +21,7 @@ public class LivesDisplay : MonoBehaviour
         health -= point;
         if (health == 0)
         {
-            FindObjectOfType<LevelLoader>().LoadLoseScrene();
+            FindObjectOfType<LevelController>().HandleLoseCondition();
         }
         UpdateDisplay();
     }
