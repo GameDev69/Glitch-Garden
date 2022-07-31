@@ -22,6 +22,8 @@
           <e p="LivesDisplay.cs" t="Include" />
           <e p="Lizard.cs" t="Include" />
           <e p="LoseCollider.cs" t="Include" />
+          <e p="MusicPlayer.cs" t="Include" />
+          <e p="OptionsController.cs" t="Include" />
           <e p="PlayerPrefsController.cs" t="Include" />
           <e p="Projectile.cs" t="Include" />
           <e p="Shooter.cs" t="Include" />
