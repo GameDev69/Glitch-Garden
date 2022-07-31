@@ -22,10 +22,12 @@
           <e p="LivesDisplay.cs" t="Include" />
           <e p="Lizard.cs" t="Include" />
           <e p="LoseCollider.cs" t="Include" />
+          <e p="PlayerPrefsController.cs" t="Include" />
           <e p="Projectile.cs" t="Include" />
           <e p="Shooter.cs" t="Include" />
           <e p="StarDisplay.cs" t="Include" />
         </e>
+        <e p="TEST.cs" t="Include" />
         <e p="TextMesh Pro" t="Include">
           <e p="Fonts" t="Include">
             <e p="LiberationSans - OFL.txt" t="Include" />
