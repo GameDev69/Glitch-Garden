@@ -31,7 +31,6 @@ public class LevelController : MonoBehaviour
         _numberOfAttackers--;
         if (_numberOfAttackers == 0 && _levelTimeFinished)
         {
-            Debug.Log("End Level Now");
             StartCoroutine(HandleWinCondition());
         }
     }

@@ -21,12 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="62b33eb2-d555-47c8-89ec-a4a1ed883db1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Main Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Main Canvas.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Options Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Options Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LevelController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/LivesDisplay.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LivesDisplay.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/OptionsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/OptionsController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerPrefsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerPrefsController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Shooter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Shooter.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Health.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StarDisplay.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Defender.cs" />
         <option value="$PROJECT_DIR$/Assets/Animations/Defenders/Trophy Bounds.anim" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Lizard.cs" />
@@ -68,19 +66,20 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Fox.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/HealthDisplay.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LoseCollider.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Shooter.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LevContr.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AttackerSpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameTimer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelLoad.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Attacker.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/LevelController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/TEST.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MusicPlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerPrefsController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OptionsController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LivesDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shooter.cs" />
       </list>
     </option>
   </component>
@@ -168,7 +167,8 @@
       <workItem from="1659159353417" duration="12278000" />
       <workItem from="1659251627091" duration="3338000" />
       <workItem from="1659282838649" duration="5815000" />
-      <workItem from="1659326133027" duration="1564000" />
+      <workItem from="1659326133027" duration="2956000" />
+      <workItem from="1659343958523" duration="2637000" />
     </task>
     <servers />
   </component>
@@ -210,6 +210,10 @@
     </state>
     <state x="183" y="9" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1658996797073" />
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1653765575312" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1659328166880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1659328166880" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1659327538332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -222,9 +226,9 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="336" y="162" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1659119010709" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1657256413787">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1659328171444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1657256413787" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1659328171444" />
   </component>
 </project>

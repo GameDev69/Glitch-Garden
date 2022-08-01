@@ -9,24 +9,34 @@ public class Shooter : MonoBehaviour
     [SerializeField] private GameObject projectile, gun;
     private AttackerSpawner _myLaneSpawner;
     private Animator _animator;
+    private GameObject _projectileParent;
+    private const string ProjectileParentName = "Projectiles";
     private readonly int _isAttacking = Animator.StringToHash("isAttacking");
 
     private void Start()
     {
         SetLaneSpawner();
         _animator = GetComponent<Animator>();
+        CreateProjectileParent();
+    }
+    
+    private void CreateProjectileParent() // Создаём родителя для defender
+    {
+        _projectileParent = GameObject.Find(ProjectileParentName);
+        if (!_projectileParent)
+        {
+            _projectileParent = new GameObject(ProjectileParentName);
+        }  
     }
 
     private void Update()
     {
         if (IsAttackerInLane())
         {
-            // Debug.Log("Он на моей линии");
             _animator.SetBool(_isAttacking, true);
         }
         else
         {
-            // Debug.Log("Жду...");
             _animator.SetBool(_isAttacking, false);
         }
     }
@@ -39,15 +49,9 @@ public class Shooter : MonoBehaviour
             bool isCloseEnough = 
                 (Mathf.Abs(spawner.transform.position.y - transform.position.y) 
                  <= 0.2f);
-            // Debug.Log(spawner.name);
-            // Debug.Log(Mathf.Abs(spawner.transform.position.y - transform.position.y) 
-            //           <= 0.2f);
-            // Debug.Log(spawner.transform.position.y);
-            // Debug.Log(transform.position.y);
             if (isCloseEnough)
             {
                 _myLaneSpawner = spawner;
-                // Debug.Log("Done!");
             }
         }
     }
@@ -66,6 +70,7 @@ public class Shooter : MonoBehaviour
     
     public void Fire()
     {
-        Instantiate(projectile, gun.transform.position, Quaternion.identity);
+        GameObject newProjectile = Instantiate(projectile, gun.transform.position, Quaternion.identity);
+        newProjectile.transform.parent = _projectileParent.transform;
     }
 }

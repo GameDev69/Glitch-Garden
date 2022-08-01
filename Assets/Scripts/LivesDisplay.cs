@@ -15,8 +15,6 @@ public class LivesDisplay : MonoBehaviour
     {
         _healthText = GetComponent<Text>();
         _health = baseHealth - PlayerPrefsController.GetDifficulty();
-        Debug.Log("Difficulty level from PlayerPrefs " + PlayerPrefsController.GetDifficulty());
-        Debug.Log("Difficulty level for level " + _health);
         UpdateDisplay();
     }
     

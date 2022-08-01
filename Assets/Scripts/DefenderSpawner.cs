@@ -6,9 +6,24 @@ using UnityEngine.Serialization;
 
 public class DefenderSpawner : MonoBehaviour
 {
-
     private Defender _defender;
-    
+    private GameObject _defenderParent;
+    private const string DefenderParentName = "Defenders";
+
+    private void Start()
+    {
+        CreateDefenderParent();
+    }
+
+    private void CreateDefenderParent() // Создаём родителя для defender
+    {
+        _defenderParent = GameObject.Find(DefenderParentName);
+        if (!_defenderParent)
+        {
+            _defenderParent = new GameObject(DefenderParentName);
+        }  
+    }
+
     private void OnMouseDown() // При нажатии на ЛКМ
     {
         if (_defender == null) return;
@@ -58,5 +73,6 @@ public class DefenderSpawner : MonoBehaviour
     private void SpawnDefender(Vector2 roundedPos) // Создание Защитника
     {
         Defender newDefener = Instantiate(_defender, roundedPos, Quaternion.identity) as Defender;
+        newDefener.transform.parent = _defenderParent.transform; // Помещаем Defender в _defenderParent
     }
 }
