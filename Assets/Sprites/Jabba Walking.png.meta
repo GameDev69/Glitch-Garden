@@ -143,12 +143,12 @@ TextureImporter:
       name: Jabba Walking_0
       rect:
         serializedVersion: 2
-        x: 110
-        y: 1409
-        width: 284
-        height: 189
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 0
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -164,12 +164,12 @@ TextureImporter:
       name: Jabba Walking_1
       rect:
         serializedVersion: 2
-        x: 549
-        y: 1408
-        width: 291
-        height: 190
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 439
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -185,12 +185,12 @@ TextureImporter:
       name: Jabba Walking_2
       rect:
         serializedVersion: 2
-        x: 110
-        y: 1207
-        width: 300
-        height: 190
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 0
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -206,12 +206,12 @@ TextureImporter:
       name: Jabba Walking_3
       rect:
         serializedVersion: 2
-        x: 549
-        y: 1207
-        width: 305
-        height: 190
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 439
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -227,12 +227,12 @@ TextureImporter:
       name: Jabba Walking_4
       rect:
         serializedVersion: 2
-        x: 110
-        y: 1006
-        width: 311
-        height: 189
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 0
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -248,12 +248,12 @@ TextureImporter:
       name: Jabba Walking_5
       rect:
         serializedVersion: 2
-        x: 547
-        y: 1006
-        width: 324
-        height: 189
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 439
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -269,12 +269,12 @@ TextureImporter:
       name: Jabba Walking_6
       rect:
         serializedVersion: 2
-        x: 106
-        y: 805
-        width: 333
-        height: 190
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 0
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -290,12 +290,12 @@ TextureImporter:
       name: Jabba Walking_7
       rect:
         serializedVersion: 2
-        x: 543
-        y: 805
-        width: 329
-        height: 190
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 439
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -311,12 +311,12 @@ TextureImporter:
       name: Jabba Walking_8
       rect:
         serializedVersion: 2
-        x: 102
-        y: 605
-        width: 326
-        height: 188
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 0
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -332,12 +332,12 @@ TextureImporter:
       name: Jabba Walking_9
       rect:
         serializedVersion: 2
-        x: 542
-        y: 604
-        width: 322
-        height: 190
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 439
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -353,12 +353,12 @@ TextureImporter:
       name: Jabba Walking_10
       rect:
         serializedVersion: 2
-        x: 103
-        y: 403
-        width: 317
-        height: 190
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 0
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -374,12 +374,12 @@ TextureImporter:
       name: Jabba Walking_11
       rect:
         serializedVersion: 2
-        x: 543
+        x: 439
         y: 402
-        width: 318
-        height: 190
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -395,12 +395,12 @@ TextureImporter:
       name: Jabba Walking_12
       rect:
         serializedVersion: 2
-        x: 104
+        x: 0
         y: 201
-        width: 316
-        height: 191
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -416,12 +416,12 @@ TextureImporter:
       name: Jabba Walking_13
       rect:
         serializedVersion: 2
-        x: 545
+        x: 439
         y: 201
-        width: 300
-        height: 190
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -437,12 +437,12 @@ TextureImporter:
       name: Jabba Walking_14
       rect:
         serializedVersion: 2
-        x: 107
-        y: 1
-        width: 284
-        height: 190
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 0
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

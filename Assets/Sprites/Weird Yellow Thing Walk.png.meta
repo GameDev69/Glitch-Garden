@@ -143,12 +143,12 @@ TextureImporter:
       name: Weird Yellow Thing Walk_0
       rect:
         serializedVersion: 2
-        x: 49
-        y: 154
-        width: 46
-        height: 68
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 0
+        y: 152
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -164,12 +164,12 @@ TextureImporter:
       name: Weird Yellow Thing Walk_1
       rect:
         serializedVersion: 2
-        x: 168
-        y: 154
-        width: 47
-        height: 69
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 120
+        y: 152
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -185,12 +185,12 @@ TextureImporter:
       name: Weird Yellow Thing Walk_2
       rect:
         serializedVersion: 2
-        x: 287
-        y: 153
-        width: 48
-        height: 70
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 240
+        y: 152
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -206,12 +206,12 @@ TextureImporter:
       name: Weird Yellow Thing Walk_3
       rect:
         serializedVersion: 2
-        x: 405
-        y: 153
-        width: 50
-        height: 71
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 360
+        y: 152
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -227,12 +227,12 @@ TextureImporter:
       name: Weird Yellow Thing Walk_4
       rect:
         serializedVersion: 2
-        x: 522
+        x: 480
         y: 152
-        width: 53
-        height: 72
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -248,12 +248,12 @@ TextureImporter:
       name: Weird Yellow Thing Walk_5
       rect:
         serializedVersion: 2
-        x: 639
+        x: 600
         y: 152
-        width: 57
-        height: 72
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -269,12 +269,12 @@ TextureImporter:
       name: Weird Yellow Thing Walk_6
       rect:
         serializedVersion: 2
-        x: 757
-        y: 153
-        width: 61
-        height: 70
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 720
+        y: 152
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -290,12 +290,12 @@ TextureImporter:
       name: Weird Yellow Thing Walk_7
       rect:
         serializedVersion: 2
-        x: 876
-        y: 153
-        width: 65
-        height: 70
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 840
+        y: 152
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -311,12 +311,12 @@ TextureImporter:
       name: Weird Yellow Thing Walk_8
       rect:
         serializedVersion: 2
-        x: 36
-        y: 1
-        width: 66
-        height: 69
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 0
+        y: 0
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -332,12 +332,12 @@ TextureImporter:
       name: Weird Yellow Thing Walk_9
       rect:
         serializedVersion: 2
-        x: 156
-        y: 1
-        width: 65
-        height: 70
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 120
+        y: 0
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -353,12 +353,12 @@ TextureImporter:
       name: Weird Yellow Thing Walk_10
       rect:
         serializedVersion: 2
-        x: 276
-        y: 2
-        width: 63
-        height: 69
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 240
+        y: 0
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -374,12 +374,12 @@ TextureImporter:
       name: Weird Yellow Thing Walk_11
       rect:
         serializedVersion: 2
-        x: 398
-        y: 2
-        width: 59
-        height: 70
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 360
+        y: 0
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -395,12 +395,12 @@ TextureImporter:
       name: Weird Yellow Thing Walk_12
       rect:
         serializedVersion: 2
-        x: 519
-        y: 2
-        width: 57
-        height: 70
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 480
+        y: 0
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -416,12 +416,12 @@ TextureImporter:
       name: Weird Yellow Thing Walk_13
       rect:
         serializedVersion: 2
-        x: 643
-        y: 2
-        width: 52
-        height: 70
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 600
+        y: 0
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -437,12 +437,12 @@ TextureImporter:
       name: Weird Yellow Thing Walk_14
       rect:
         serializedVersion: 2
-        x: 766
-        y: 3
-        width: 49
-        height: 68
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 720
+        y: 0
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -458,12 +458,12 @@ TextureImporter:
       name: Weird Yellow Thing Walk_15
       rect:
         serializedVersion: 2
-        x: 888
-        y: 3
-        width: 47
-        height: 68
-      alignment: 9
-      pivot: {x: 1, y: 0}
+        x: 840
+        y: 0
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

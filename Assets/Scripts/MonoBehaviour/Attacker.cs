@@ -5,13 +5,13 @@ using UnityEngine;
 
 public class Attacker : MonoBehaviour
 {
-    
-    private float _currentSpeed = 1f;
+    private float _currentSpeed;
     private GameObject _currentTarget;
     private readonly int _isAttacking = Animator.StringToHash("isAttacking");
 
     private void Awake()
     {
+        
         FindObjectOfType<LevelController>().AttackerSpawned();
     }
 

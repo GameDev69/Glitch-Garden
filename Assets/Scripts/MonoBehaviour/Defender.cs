@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,12 +6,17 @@ using UnityEngine;
 public class Defender : MonoBehaviour
 {
 
-    [SerializeField] private int starCost = 100;
-    
-    
+    [SerializeField] private Defenders defender;
+    private int _starCost;
+
+    private void Start()
+    {
+        _starCost = defender.StarsCost;
+    }
+
     public int GetStarCost()
     {
-        return starCost;
+        return defender.StarsCost;
     }
     
     public void AddStars(int amount)

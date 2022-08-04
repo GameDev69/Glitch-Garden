@@ -6,19 +6,36 @@ using UnityEngine.SceneManagement;
 
 public class LevelController : MonoBehaviour
 {
-    [SerializeField] private GameObject winLabel;
-    [SerializeField] private GameObject loseLabel;
-    [SerializeField] private float waitToLoad = 2f;
+    [SerializeField] private LevelControllers levelController;
+
+    private const string LoseLabelName = "Lose Canvas";
+    private const string WinLabelName = "Level Complete Canvas";
+    private GameObject _winLabel;
+    private GameObject _loseLabel;
+    private float _waitToLoad = 2f; // Для переключений между уровнями
     private AudioSource _winSFX;
     private int _numberOfAttackers;
     private bool _levelTimeFinished;
 
     private void Start()
     {
+        NewVariablesDeclaration();
+        CheckingLabels();
+    }
+
+    private void CheckingLabels()
+    {
+        if (_winLabel == null || _loseLabel == null) return;
+        _winLabel.SetActive(false);
+        _loseLabel.SetActive(false);
+    }
+
+    private void NewVariablesDeclaration()
+    {
+        _loseLabel = GameObject.Find(LoseLabelName);
+        _winLabel = GameObject.Find(WinLabelName);
+        _waitToLoad = levelController.WaitToLoadNextLevel;
         _winSFX = GetComponent<AudioSource>();
-        if(winLabel == null || loseLabel == null) return;
-        winLabel.SetActive(false);
-        loseLabel.SetActive(false);
     }
 
     public void AttackerSpawned()
@@ -38,14 +55,15 @@ public class LevelController : MonoBehaviour
     private IEnumerator HandleWinCondition()
     {
         _winSFX.Play();
-        winLabel.SetActive(true);
-        yield return new WaitForSeconds(waitToLoad);
+        _winLabel.SetActive(true);
+        yield return new WaitForSeconds(_waitToLoad);
         FindObjectOfType<LevelLoader>().LoadNextScene();
     }
 
     public void HandleLoseCondition()
     {
-        loseLabel.SetActive(true);
+        _loseLabel.SetActive(true);
+        _winLabel.SetActive(false);
         Time.timeScale = 0;
     }
 
@@ -63,4 +81,6 @@ public class LevelController : MonoBehaviour
             attackerSpawner.StopSpawning();
         }
     }
+
+    
 }

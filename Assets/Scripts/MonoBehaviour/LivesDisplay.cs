@@ -8,16 +8,23 @@ using UnityEngine.UI;
 
 public class LivesDisplay : MonoBehaviour
 {
-    [SerializeField] private float baseHealth = 3;
+    [SerializeField] private LevelControllers levelController;
+    private float _baseLives = 3;
     private Text _healthText;
     private float _health;
     private void Start()
     {
-        _healthText = GetComponent<Text>();
-        _health = baseHealth - PlayerPrefsController.GetDifficulty();
+        NewVariablesDeclaration();
         UpdateDisplay();
     }
-    
+
+    private void NewVariablesDeclaration()
+    {
+        _baseLives = levelController.BaseLives;
+        _healthText = GetComponent<Text>();
+        _health = _baseLives - PlayerPrefsController.GetDifficulty();
+    }
+
     public void DecreaseHealth(int point)
     {
         _health -= point;

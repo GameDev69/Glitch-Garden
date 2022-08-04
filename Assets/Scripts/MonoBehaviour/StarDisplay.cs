@@ -6,37 +6,44 @@ using UnityEngine.UI;
 public class StarDisplay : MonoBehaviour
 {
 
-    [SerializeField] private int stars = 100;
-
+    [SerializeField] private LevelControllers levelController;
+    
+    private int _stars = 100;
     private Text _starText;
     
     void Start()
     {
-        _starText = GetComponent<Text>();
+        NewVariablesDeclaration();
         UpdateDisplay();
+    }
+
+    private void NewVariablesDeclaration()
+    {
+        _stars = levelController.InitialStars;
+        _starText = GetComponent<Text>();
     }
 
     private void UpdateDisplay()
     {
-        _starText.text = stars.ToString();
+        _starText.text = _stars.ToString();
     }
 
     public bool HaveEnoughStars(int ammount)
     {
-        return stars >= ammount;
+        return _stars >= ammount;
     }
 
     public void AddStars(int amount)
     {
-        stars += amount;
+        _stars += amount;
         UpdateDisplay();
     }
 
     public void SpendStars(int amount)
     {
-        if (stars >= amount)
+        if (_stars >= amount)
         {
-            stars -= amount;
+            _stars -= amount;
             UpdateDisplay();
         }
     }

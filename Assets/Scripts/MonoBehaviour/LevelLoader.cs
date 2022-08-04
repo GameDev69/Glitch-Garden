@@ -5,20 +5,28 @@ using UnityEngine.SceneManagement;
 
 public class LevelLoader : MonoBehaviour
 {
-    [SerializeField] int timeToWait = 3;
+    [SerializeField] private LevelControllers levelController;
+    int _timeToWait = 3; // Для  стартовой заставки
     private int _currentSceneIndex;
 
     void Start()
     {
-        _currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        NewVariableDeclaration();
         if (_currentSceneIndex == 0)
         {
             StartCoroutine(LoadStartScene()); 
         }
     }
+
+    private void NewVariableDeclaration()
+    {
+        _timeToWait = levelController.TimeToWaitLoadScreen;
+        _currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+    }
+
     private IEnumerator LoadStartScene()
     {
-        yield return new WaitForSeconds(timeToWait);
+        yield return new WaitForSeconds(_timeToWait);
         LoadNextScene();
     }
 

@@ -93,7 +93,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5b39468aa7423e4fae131fd96f9e747, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseHealth: 3
+  levelController: {fileID: 11400000, guid: af7533b76443a1d438bcb4c487f8ff9f, type: 2}
 --- !u!1 &8381900899800298375
 GameObject:
   m_ObjectHideFlags: 0
@@ -274,7 +274,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2db8a201fe59b0a4bb2dac4ae83086ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelTime: 10
+  levelControllers: {fileID: 11400000, guid: af7533b76443a1d438bcb4c487f8ff9f, type: 2}
 --- !u!1 &8381900899912103578
 GameObject:
   m_ObjectHideFlags: 0
@@ -755,7 +755,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a37b85c2705b2b42996b05089a0d409, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stars: 1000
+  levelController: {fileID: 11400000, guid: af7533b76443a1d438bcb4c487f8ff9f, type: 2}
 --- !u!1 &8381900901094977159
 GameObject:
   m_ObjectHideFlags: 0

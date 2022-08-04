@@ -143,12 +143,12 @@ TextureImporter:
       name: Batterfly Flying_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 414
-        width: 76
-        height: 66
+        x: 0
+        y: 384
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -164,12 +164,12 @@ TextureImporter:
       name: Batterfly Flying_1
       rect:
         serializedVersion: 2
-        x: 129
-        y: 415
-        width: 75
-        height: 57
+        x: 110
+        y: 384
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -185,12 +185,12 @@ TextureImporter:
       name: Batterfly Flying_2
       rect:
         serializedVersion: 2
-        x: 244
-        y: 399
-        width: 71
-        height: 40
+        x: 222
+        y: 384
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -206,12 +206,12 @@ TextureImporter:
       name: Batterfly Flying_3
       rect:
         serializedVersion: 2
-        x: 358
-        y: 390
-        width: 68
-        height: 51
+        x: 333
+        y: 384
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -227,12 +227,12 @@ TextureImporter:
       name: Batterfly Flying_4
       rect:
         serializedVersion: 2
-        x: 471
-        y: 385
-        width: 66
-        height: 57
+        x: 444
+        y: 384
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -248,12 +248,12 @@ TextureImporter:
       name: Batterfly Flying_5
       rect:
         serializedVersion: 2
-        x: 582
+        x: 555
         y: 384
-        width: 66
-        height: 58
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -269,12 +269,12 @@ TextureImporter:
       name: Batterfly Flying_6
       rect:
         serializedVersion: 2
-        x: 689
-        y: 395
-        width: 70
-        height: 47
+        x: 666
+        y: 384
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -290,12 +290,12 @@ TextureImporter:
       name: Batterfly Flying_7
       rect:
         serializedVersion: 2
-        x: 793
-        y: 416
-        width: 77
-        height: 47
+        x: 777
+        y: 384
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -311,12 +311,12 @@ TextureImporter:
       name: Batterfly Flying_8
       rect:
         serializedVersion: 2
-        x: 16
-        y: 320
-        width: 77
-        height: 58
+        x: 0
+        y: 291
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -332,12 +332,12 @@ TextureImporter:
       name: Batterfly Flying_9
       rect:
         serializedVersion: 2
-        x: 128
-        y: 319
-        width: 76
-        height: 64
+        x: 111
+        y: 288
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -353,12 +353,12 @@ TextureImporter:
       name: Batterfly Flying_10
       rect:
         serializedVersion: 2
-        x: 239
-        y: 318
-        width: 76
-        height: 66
+        x: 222
+        y: 288
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -374,12 +374,12 @@ TextureImporter:
       name: Batterfly Flying_11
       rect:
         serializedVersion: 2
-        x: 351
-        y: 319
-        width: 75
-        height: 57
+        x: 333
+        y: 288
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -395,12 +395,12 @@ TextureImporter:
       name: Batterfly Flying_12
       rect:
         serializedVersion: 2
-        x: 466
-        y: 303
-        width: 71
-        height: 40
+        x: 444
+        y: 288
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -416,12 +416,12 @@ TextureImporter:
       name: Batterfly Flying_13
       rect:
         serializedVersion: 2
-        x: 580
-        y: 294
-        width: 68
-        height: 51
+        x: 555
+        y: 288
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -437,12 +437,12 @@ TextureImporter:
       name: Batterfly Flying_14
       rect:
         serializedVersion: 2
-        x: 693
-        y: 289
-        width: 66
-        height: 57
+        x: 666
+        y: 288
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -458,12 +458,12 @@ TextureImporter:
       name: Batterfly Flying_15
       rect:
         serializedVersion: 2
-        x: 804
+        x: 777
         y: 288
-        width: 66
-        height: 58
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -479,12 +479,12 @@ TextureImporter:
       name: Batterfly Flying_16
       rect:
         serializedVersion: 2
-        x: 23
-        y: 203
-        width: 70
-        height: 47
+        x: 0
+        y: 192
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -500,12 +500,12 @@ TextureImporter:
       name: Batterfly Flying_17
       rect:
         serializedVersion: 2
-        x: 127
-        y: 224
-        width: 77
-        height: 47
+        x: 111
+        y: 192
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -521,12 +521,12 @@ TextureImporter:
       name: Batterfly Flying_18
       rect:
         serializedVersion: 2
-        x: 238
-        y: 224
-        width: 77
-        height: 58
+        x: 222
+        y: 192
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -542,12 +542,12 @@ TextureImporter:
       name: Batterfly Flying_19
       rect:
         serializedVersion: 2
-        x: 350
-        y: 223
-        width: 76
-        height: 64
+        x: 333
+        y: 192
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -563,12 +563,12 @@ TextureImporter:
       name: Batterfly Flying_20
       rect:
         serializedVersion: 2
-        x: 461
-        y: 222
-        width: 76
-        height: 66
+        x: 444
+        y: 192
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -584,12 +584,12 @@ TextureImporter:
       name: Batterfly Flying_21
       rect:
         serializedVersion: 2
-        x: 573
-        y: 223
-        width: 75
-        height: 57
+        x: 555
+        y: 192
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -605,12 +605,12 @@ TextureImporter:
       name: Batterfly Flying_22
       rect:
         serializedVersion: 2
-        x: 688
-        y: 207
-        width: 71
-        height: 40
+        x: 666
+        y: 192
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -626,12 +626,12 @@ TextureImporter:
       name: Batterfly Flying_23
       rect:
         serializedVersion: 2
-        x: 802
-        y: 198
-        width: 68
-        height: 51
+        x: 777
+        y: 192
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -647,12 +647,12 @@ TextureImporter:
       name: Batterfly Flying_24
       rect:
         serializedVersion: 2
-        x: 27
-        y: 97
-        width: 66
-        height: 57
+        x: 0
+        y: 96
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -668,12 +668,12 @@ TextureImporter:
       name: Batterfly Flying_25
       rect:
         serializedVersion: 2
-        x: 138
+        x: 111
         y: 96
-        width: 66
-        height: 58
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -689,12 +689,12 @@ TextureImporter:
       name: Batterfly Flying_26
       rect:
         serializedVersion: 2
-        x: 245
-        y: 107
-        width: 70
-        height: 47
+        x: 222
+        y: 96
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -710,12 +710,12 @@ TextureImporter:
       name: Batterfly Flying_27
       rect:
         serializedVersion: 2
-        x: 349
-        y: 128
-        width: 77
-        height: 47
+        x: 333
+        y: 96
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -731,12 +731,12 @@ TextureImporter:
       name: Batterfly Flying_28
       rect:
         serializedVersion: 2
-        x: 460
-        y: 128
-        width: 77
-        height: 58
+        x: 444
+        y: 96
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -752,12 +752,12 @@ TextureImporter:
       name: Batterfly Flying_29
       rect:
         serializedVersion: 2
-        x: 572
-        y: 127
-        width: 76
-        height: 64
+        x: 555
+        y: 96
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -773,12 +773,12 @@ TextureImporter:
       name: Batterfly Flying_30
       rect:
         serializedVersion: 2
-        x: 683
-        y: 126
-        width: 76
-        height: 66
+        x: 666
+        y: 96
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -794,12 +794,12 @@ TextureImporter:
       name: Batterfly Flying_31
       rect:
         serializedVersion: 2
-        x: 795
-        y: 127
-        width: 75
-        height: 57
+        x: 777
+        y: 96
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -815,12 +815,12 @@ TextureImporter:
       name: Batterfly Flying_32
       rect:
         serializedVersion: 2
-        x: 22
-        y: 15
-        width: 71
-        height: 40
+        x: 0
+        y: 0
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -836,12 +836,12 @@ TextureImporter:
       name: Batterfly Flying_33
       rect:
         serializedVersion: 2
-        x: 136
-        y: 6
-        width: 68
-        height: 51
+        x: 111
+        y: 0
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -857,12 +857,12 @@ TextureImporter:
       name: Batterfly Flying_34
       rect:
         serializedVersion: 2
-        x: 249
-        y: 1
-        width: 66
-        height: 57
+        x: 222
+        y: 0
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -878,12 +878,12 @@ TextureImporter:
       name: Batterfly Flying_35
       rect:
         serializedVersion: 2
-        x: 360
+        x: 333
         y: 0
-        width: 66
-        height: 58
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -899,12 +899,12 @@ TextureImporter:
       name: Batterfly Flying_36
       rect:
         serializedVersion: 2
-        x: 467
-        y: 11
-        width: 70
-        height: 47
+        x: 444
+        y: 0
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -920,12 +920,12 @@ TextureImporter:
       name: Batterfly Flying_37
       rect:
         serializedVersion: 2
-        x: 571
-        y: 32
-        width: 77
-        height: 47
+        x: 555
+        y: 0
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -941,12 +941,12 @@ TextureImporter:
       name: Batterfly Flying_38
       rect:
         serializedVersion: 2
-        x: 682
-        y: 32
-        width: 77
-        height: 58
+        x: 666
+        y: 0
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -962,12 +962,12 @@ TextureImporter:
       name: Batterfly Flying_39
       rect:
         serializedVersion: 2
-        x: 794
-        y: 31
-        width: 76
-        height: 64
+        x: 777
+        y: 0
+        width: 111
+        height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -990,7 +990,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Batterfly Flying_26: 1119807307
+      Batterfly Flying_6: -670512007
       Batterfly Flying_29: 1088707644
       Batterfly Flying_23: -1096989540
       Batterfly Flying_31: -1591808239
@@ -1027,9 +1027,9 @@ TextureImporter:
       Batterfly Flying_37: 975949756
       Batterfly Flying_35: 89406395
       Batterfly Flying_12: -941183321
-      Batterfly Flying_17: 415415467
       Batterfly Flying_22: -1507550152
-      Batterfly Flying_6: -670512007
+      Batterfly Flying_26: 1119807307
+      Batterfly Flying_17: 415415467
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
