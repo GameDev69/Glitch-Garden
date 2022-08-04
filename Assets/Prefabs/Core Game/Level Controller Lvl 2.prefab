@@ -10,11 +10,11 @@ PrefabInstance:
     - target: {fileID: 2583226821314447493, guid: d6f4464c73d767f42bea1ad29a3cd58c, type: 3}
       propertyPath: levelController
       value: 
-      objectReference: {fileID: 11400000, guid: af7533b76443a1d438bcb4c487f8ff9f, type: 2}
+      objectReference: {fileID: 11400000, guid: 8fe6e753195c26c4e86a7f5e973c9669, type: 2}
     - target: {fileID: 4965210583395758201, guid: d6f4464c73d767f42bea1ad29a3cd58c, type: 3}
       propertyPath: levelController
       value: 
-      objectReference: {fileID: 11400000, guid: af7533b76443a1d438bcb4c487f8ff9f, type: 2}
+      objectReference: {fileID: 11400000, guid: 8fe6e753195c26c4e86a7f5e973c9669, type: 2}
     - target: {fileID: 4965210583395758206, guid: d6f4464c73d767f42bea1ad29a3cd58c, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -61,7 +61,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4965210583395758207, guid: d6f4464c73d767f42bea1ad29a3cd58c, type: 3}
       propertyPath: m_Name
-      value: Level Controller Lvl 1
+      value: Level Controller Lvl 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d6f4464c73d767f42bea1ad29a3cd58c, type: 3}

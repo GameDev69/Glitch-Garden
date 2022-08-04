@@ -10,8 +10,10 @@ public class LevelController : MonoBehaviour
 
     private const string LoseLabelName = "Lose Canvas";
     private const string WinLabelName = "Level Complete Canvas";
+    private const string InitialLabelName = "Initial Canvas";
     private GameObject _winLabel;
     private GameObject _loseLabel;
+    private GameObject _initialLabel;
     private float _waitToLoad = 2f; // Для переключений между уровнями
     private AudioSource _winSFX;
     private int _numberOfAttackers;
@@ -21,6 +23,13 @@ public class LevelController : MonoBehaviour
     {
         NewVariablesDeclaration();
         CheckingLabels();
+        HandleInstructions();
+    }
+
+    private void HandleInstructions()
+    {
+        Time.timeScale = 0;
+        _initialLabel.SetActive(true);
     }
 
     private void CheckingLabels()
@@ -34,6 +43,7 @@ public class LevelController : MonoBehaviour
     {
         _loseLabel = GameObject.Find(LoseLabelName);
         _winLabel = GameObject.Find(WinLabelName);
+        _initialLabel = GameObject.Find(InitialLabelName);
         _waitToLoad = levelController.WaitToLoadNextLevel;
         _winSFX = GetComponent<AudioSource>();
     }

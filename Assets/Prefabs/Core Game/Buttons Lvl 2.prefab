@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &4208297320092476163
+--- !u!1001 &7799759697369910471
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -11,41 +11,9 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3991348073011825821, guid: 448362047a1e54642a6279514a4b8778, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3991348073011825821, guid: 448362047a1e54642a6279514a4b8778, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3991348073011825821, guid: 448362047a1e54642a6279514a4b8778, type: 3}
-      propertyPath: m_Color.r
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4112069264143067386, guid: 448362047a1e54642a6279514a4b8778, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4112069264143067386, guid: 448362047a1e54642a6279514a4b8778, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4112069264143067386, guid: 448362047a1e54642a6279514a4b8778, type: 3}
-      propertyPath: m_Color.r
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 4317723341662320181, guid: 448362047a1e54642a6279514a4b8778, type: 3}
       propertyPath: m_Name
-      value: Buttons Lvl 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4447491022975566185, guid: 448362047a1e54642a6279514a4b8778, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.06680004
-      objectReference: {fileID: 0}
-    - target: {fileID: 5196502923051045888, guid: 448362047a1e54642a6279514a4b8778, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.168
+      value: Buttons Lvl 2
       objectReference: {fileID: 0}
     - target: {fileID: 8107354085488687304, guid: 448362047a1e54642a6279514a4b8778, type: 3}
       propertyPath: m_Pivot.x
@@ -77,11 +45,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8107354085488687304, guid: 448362047a1e54642a6279514a4b8778, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 9
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 8107354085488687304, guid: 448362047a1e54642a6279514a4b8778, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 1
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 8107354085488687304, guid: 448362047a1e54642a6279514a4b8778, type: 3}
       propertyPath: m_LocalPosition.x
@@ -113,7 +81,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8107354085488687304, guid: 448362047a1e54642a6279514a4b8778, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8107354085488687304, guid: 448362047a1e54642a6279514a4b8778, type: 3}
       propertyPath: m_AnchoredPosition.y
