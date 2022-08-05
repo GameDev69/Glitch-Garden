@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1158137143972598764, guid: 1a48003eb5f8b1445acdfee661edfc0c, type: 3}
       propertyPath: m_Name
-      value: Spawner Lvl 2 (1)
+      value: Spawner Lvl 3
       objectReference: {fileID: 0}
     - target: {fileID: 1158137145266802332, guid: 1a48003eb5f8b1445acdfee661edfc0c, type: 3}
       propertyPath: attackerSpawners

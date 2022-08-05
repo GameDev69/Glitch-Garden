@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   levelDuration: 15
   baseLives: 3
-  initialStars: 300
-  waitToLoadNextLevel: 2
+  initialStars: 150
+  waitToLoadNextLevel: 4
   timeToWaitLoadScreen: 3
-  newInSceneTableLabel: New In Scene Canvas Lvl 4
+  newInSceneTableLabel: New In Scene Canvas Lvl 5
