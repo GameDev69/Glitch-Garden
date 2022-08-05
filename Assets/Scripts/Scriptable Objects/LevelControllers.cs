@@ -10,10 +10,12 @@ public class LevelControllers : ScriptableObject
     [SerializeField] private int initialStars;
     [SerializeField] private int waitToLoadNextLevel;
     [SerializeField] private int timeToWaitLoadScreen;
+    [SerializeField] private string newInSceneTableLabel;
 
     public int WaitToLoadNextLevel => waitToLoadNextLevel;
     public int TimeToWaitLoadScreen => timeToWaitLoadScreen;
     public float LevelDuration => levelDuration;
     public float BaseLives => baseLives;
     public int InitialStars => initialStars;
+    public string NewInSceneTableLabel => newInSceneTableLabel;
 }

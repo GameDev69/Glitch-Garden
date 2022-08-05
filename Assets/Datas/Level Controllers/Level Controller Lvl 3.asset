@@ -17,3 +17,4 @@ MonoBehaviour:
   initialStars: 300
   waitToLoadNextLevel: 2
   timeToWaitLoadScreen: 3
+  newInSceneTableLabel: New In Scene Canvas Lvl 3

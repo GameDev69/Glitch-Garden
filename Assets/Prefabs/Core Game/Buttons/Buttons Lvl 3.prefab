@@ -7,9 +7,13 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 688371270189291812, guid: 448362047a1e54642a6279514a4b8778, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4317723341662320181, guid: 448362047a1e54642a6279514a4b8778, type: 3}
       propertyPath: m_Name
-      value: Buttons
+      value: Buttons Lvl 2
       objectReference: {fileID: 0}
     - target: {fileID: 8107354085488687304, guid: 448362047a1e54642a6279514a4b8778, type: 3}
       propertyPath: m_Pivot.x
@@ -77,7 +81,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8107354085488687304, guid: 448362047a1e54642a6279514a4b8778, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 8107354085488687304, guid: 448362047a1e54642a6279514a4b8778, type: 3}
       propertyPath: m_AnchoredPosition.y

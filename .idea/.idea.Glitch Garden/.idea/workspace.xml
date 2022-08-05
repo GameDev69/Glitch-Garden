@@ -20,30 +20,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62b33eb2-d555-47c8-89ec-a4a1ed883db1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Datas/Level Controllers/Level Controller Lvl-1.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Datas/Level Controllers/Level Controller Lvl-1.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Datas/Spawners/Spawner 1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Datas/Spawners/Spawner 1.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Datas/Spawners/Spawner 2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Datas/Spawners/Spawner 2.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Datas/Spawners/Spawner 2.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Datas/Spawners/Spawner 2.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Buttons Lvl 1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Buttons Lvl 1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Buttons.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Buttons.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Level Complete Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Level Complete Canvas.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Level Controller Lvl 1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Level Controller Lvl 1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Lose Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Lose Canvas.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Datas/Level Controllers/Level Controller Lvl 1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Datas/Level Controllers/Level Controller Lvl 1.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Datas/Level Controllers/Level Controller Lvl 2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Datas/Level Controllers/Level Controller Lvl 2.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Datas/Level Controllers/Level Controller Lvl 3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Datas/Level Controllers/Level Controller Lvl 3.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Buttons Lvl 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Buttons Lvl 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Buttons Lvl 2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Buttons Lvl 2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Buttons Lvl 3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Buttons Lvl 3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Buttons.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Buttons.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Level Controller Lvl 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Level Controller Lvl 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Level Controller Lvl 2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Level Controller Lvl 2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Level Controller Lvl 3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Level Controller Lvl 3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Level Controller.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Level Controller.prefab.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Main Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Main Canvas.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Spawner Lvl 2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Spawner Lvl 2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Spawner Lvl 2.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Spawner Lvl 2.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Spawner Lvl 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Spawner Lvl 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Spawner Lvl 2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Spawner Lvl 2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Spawner Lvl 3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Spawner Lvl 3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Spawner.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Core Game/Spawner.prefab.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 2.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 2.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 3.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 3.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 3.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Lose Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Lose Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Start Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Start Scene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviour/LevelController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MonoBehaviour/LevelController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/LevelControllers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/LevelControllers.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,11 +118,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviour/Health.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviour/LevelLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviour/GameTimer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/LevelControllers.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviour/Controller/ControllerLvl1.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviour/Shooter.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/AttackerSpawners.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviour/Attacker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviour/InitialCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/LevelControllers.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviour/HelpButton.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviour/LevelController.cs" />
       </list>
     </option>
@@ -204,6 +218,9 @@
       <workItem from="1659497049129" duration="8562000" />
       <workItem from="1659517824313" duration="13409000" />
       <workItem from="1659544271581" duration="4319000" />
+      <workItem from="1659610027583" duration="3845000" />
+      <workItem from="1659668709977" duration="554000" />
+      <workItem from="1659669636001" duration="8790000" />
     </task>
     <servers />
   </component>
@@ -236,9 +253,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1066" y="276" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1657256537414" />
-    <state x="631" y="109" key="RiderGenerateDialog" timestamp="1659503397917">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-917" y="76" key="RiderGenerateDialog" timestamp="1659675073542">
+      <screen x="-1366" y="0" width="1366" height="728" />
     </state>
+    <state x="-917" y="76" key="RiderGenerateDialog/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1659675073542" />
     <state x="631" y="109" key="RiderGenerateDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1659503397917" />
     <state x="447" y="76" key="RiderGenerateDialog/0.0.1360.728@0.0.1360.728" timestamp="1659117108993" />
     <state x="183" y="9" key="SettingsEditor" timestamp="1658996797073">

@@ -2,7 +2,6 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class LevelController : MonoBehaviour
 {
@@ -10,10 +9,14 @@ public class LevelController : MonoBehaviour
 
     private const string LoseLabelName = "Lose Canvas";
     private const string WinLabelName = "Level Complete Canvas";
-    private const string InitialLabelName = "Initial Canvas";
+    private const string OtherCanvasesName = "Other Canvases";
+    private string _newInSceneTableName;
+    
+    private GameObject _otherCanvasesLabel;
     private GameObject _winLabel;
     private GameObject _loseLabel;
-    private GameObject _initialLabel;
+    private GameObject _newInSceneLabel;
+
     private float _waitToLoad = 2f; // Для переключений между уровнями
     private AudioSource _winSFX;
     private int _numberOfAttackers;
@@ -23,13 +26,6 @@ public class LevelController : MonoBehaviour
     {
         NewVariablesDeclaration();
         CheckingLabels();
-        HandleInstructions();
-    }
-
-    private void HandleInstructions()
-    {
-        Time.timeScale = 0;
-        _initialLabel.SetActive(true);
     }
 
     private void CheckingLabels()
@@ -37,13 +33,18 @@ public class LevelController : MonoBehaviour
         if (_winLabel == null || _loseLabel == null) return;
         _winLabel.SetActive(false);
         _loseLabel.SetActive(false);
+        _newInSceneLabel.SetActive(false);
     }
 
     private void NewVariablesDeclaration()
     {
+        _newInSceneTableName = levelController.NewInSceneTableLabel;
         _loseLabel = GameObject.Find(LoseLabelName);
         _winLabel = GameObject.Find(WinLabelName);
-        _initialLabel = GameObject.Find(InitialLabelName);
+        _otherCanvasesLabel = GameObject.Find(OtherCanvasesName);
+        // Находит New In Scene Canvas в Level Related GameObjects
+        _newInSceneLabel = _otherCanvasesLabel.
+            transform.Find(_newInSceneTableName).gameObject;
         _waitToLoad = levelController.WaitToLoadNextLevel;
         _winSFX = GetComponent<AudioSource>();
     }

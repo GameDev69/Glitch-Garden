@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6467fe2787f1c8346bee9f3247b7d1e3, type: 3}
   m_Name: Level Controller Lvl 2
   m_EditorClassIdentifier: 
-  levelDuration: 10
+  levelDuration: 15
   baseLives: 3
   initialStars: 200
   waitToLoadNextLevel: 2
   timeToWaitLoadScreen: 3
+  newInSceneTableLabel: New In Scene Canvas Lvl 2
