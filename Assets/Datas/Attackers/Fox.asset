@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f4e3a2e12bdd5a4ba23049dadf42520, type: 3}
   m_Name: Fox
   m_EditorClassIdentifier: 
-  damage: 25
+  damage: 20
   healthPoints: 75
   currentSpeed: 1
   deathVFX: {fileID: 100004, guid: 7867af58a6ec48846ae807eb4022fbaa, type: 3}

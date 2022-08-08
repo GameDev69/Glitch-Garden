@@ -137,7 +137,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6158911458527940796, guid: 18e69ff327f0a1445bc967a61b3253da, type: 3}
       propertyPath: m_Name
-      value: Spawner Lvl 5 (3)
+      value: Spawner Lvl 4 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 6158911458527940796, guid: 18e69ff327f0a1445bc967a61b3253da, type: 3}
       propertyPath: m_IsActive
@@ -239,7 +239,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6158911458527940796, guid: 18e69ff327f0a1445bc967a61b3253da, type: 3}
       propertyPath: m_Name
-      value: Spawner Lvl 5 (4)
+      value: Spawner Lvl 4 (4)
       objectReference: {fileID: 0}
     - target: {fileID: 6158911459386985933, guid: 18e69ff327f0a1445bc967a61b3253da, type: 3}
       propertyPath: m_RootOrder
@@ -301,7 +301,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6158911458527940796, guid: 18e69ff327f0a1445bc967a61b3253da, type: 3}
       propertyPath: m_Name
-      value: Spawner Lvl 5 (5)
+      value: Spawner Lvl 4 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6158911458527940796, guid: 18e69ff327f0a1445bc967a61b3253da, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6158911459386985933, guid: 18e69ff327f0a1445bc967a61b3253da, type: 3}
       propertyPath: m_RootOrder
@@ -374,7 +378,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6158911458527940796, guid: 18e69ff327f0a1445bc967a61b3253da, type: 3}
       propertyPath: m_Name
-      value: Spawner Lvl 5 (1)
+      value: Spawner Lvl 4 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 6158911459386985933, guid: 18e69ff327f0a1445bc967a61b3253da, type: 3}
       propertyPath: m_RootOrder
@@ -481,7 +485,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1121734163870984371, guid: b9aa9a0b17a8eb64fbe141f18c3cda2e, type: 3}
       propertyPath: m_Name
-      value: Buttons Lvl 5
+      value: Buttons Lvl 4
       objectReference: {fileID: 0}
     - target: {fileID: 4970155747198346830, guid: b9aa9a0b17a8eb64fbe141f18c3cda2e, type: 3}
       propertyPath: m_Pivot.x
@@ -587,7 +591,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6158911458527940796, guid: 18e69ff327f0a1445bc967a61b3253da, type: 3}
       propertyPath: m_Name
-      value: Spawner Lvl 5 (2)
+      value: Spawner Lvl 4 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 6158911459386985933, guid: 18e69ff327f0a1445bc967a61b3253da, type: 3}
       propertyPath: m_RootOrder
@@ -649,7 +653,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 120603214696353227, guid: 751e6b25191273948bb02a6e30183171, type: 3}
       propertyPath: m_Name
-      value: Main Canvas Lvl 5
+      value: Main Canvas Lvl 4
       objectReference: {fileID: 0}
     - target: {fileID: 120603214696353231, guid: 751e6b25191273948bb02a6e30183171, type: 3}
       propertyPath: m_Pivot.x
@@ -866,7 +870,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2444850555760925540, guid: 2c8931b8aac22aa4ba2149e58e1f3b06, type: 3}
       propertyPath: m_Name
-      value: New In Scene Canvas Lvl 5
+      value: New In Scene Canvas Lvl 4
       objectReference: {fileID: 0}
     - target: {fileID: 2444850556768711308, guid: 2c8931b8aac22aa4ba2149e58e1f3b06, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -936,7 +940,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5751104310983841127, guid: d0fbfaf64bce52845b7c4d9df0aea9e6, type: 3}
       propertyPath: m_Name
-      value: Level Controller Lvl 5
+      value: Level Controller Lvl 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d0fbfaf64bce52845b7c4d9df0aea9e6, type: 3}

@@ -28,6 +28,23 @@ public class LevelController : MonoBehaviour
         CheckingLabels();
     }
 
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            if (_newInSceneLabel.activeSelf)
+            {
+                Time.timeScale = 1;
+                _newInSceneLabel.SetActive(false);
+            }
+            else
+            {
+                Time.timeScale = 0;
+                _newInSceneLabel.SetActive(true);
+            }
+        }
+    }
+
     private void CheckingLabels()
     {
         if (_winLabel == null || _loseLabel == null) return;
