@@ -8,6 +8,7 @@ public class LevelLoader : MonoBehaviour
     [SerializeField] private LevelControllers levelController;
     int _timeToWait = 3; // Для  стартовой заставки
     private int _currentSceneIndex;
+    
 
     void Start()
     {
@@ -55,6 +56,16 @@ public class LevelLoader : MonoBehaviour
     public void LoadOptionsScreen()
     {
         SceneManager.LoadScene("Options Scene");
+    }
+
+    public void LoadLevelsScene()
+    {
+        SceneManager.LoadScene("Load Level Scene");
+    }
+
+    public void LoadSelectedLevel(int levelNumber)
+    {
+        SceneManager.LoadScene("Level " + levelNumber);
     }
 
     public void QuitGame()

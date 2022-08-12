@@ -85,6 +85,7 @@ public class LevelController : MonoBehaviour
         _winSFX.Play();
         _winLabel.SetActive(true);
         yield return new WaitForSeconds(_waitToLoad);
+        // Здесь должен сохраняться прогресс
         FindObjectOfType<LevelLoader>().LoadNextScene();
     }
 
