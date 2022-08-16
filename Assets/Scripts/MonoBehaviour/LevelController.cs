@@ -16,6 +16,8 @@ public class LevelController : MonoBehaviour
     private GameObject _winLabel;
     private GameObject _loseLabel;
     private GameObject _newInSceneLabel;
+    private LevelLoader _levelLoader;
+    private GameProgression _gameProgression;
 
     private float _waitToLoad = 2f; // Для переключений между уровнями
     private AudioSource _winSFX;
@@ -30,7 +32,8 @@ public class LevelController : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKeyDown(KeyCode.Escape) || 
+            Input.GetKeyDown(KeyCode.P))
         {
             if (_newInSceneLabel.activeSelf)
             {
@@ -64,6 +67,9 @@ public class LevelController : MonoBehaviour
             transform.Find(_newInSceneTableName).gameObject;
         _waitToLoad = levelController.WaitToLoadNextLevel;
         _winSFX = GetComponent<AudioSource>();
+        _gameProgression = FindObjectOfType<GameProgression>();
+        _levelLoader = FindObjectOfType<LevelLoader>();
+
     }
 
     public void AttackerSpawned()
@@ -82,11 +88,15 @@ public class LevelController : MonoBehaviour
 
     private IEnumerator HandleWinCondition()
     {
+        if ( _gameProgression.LastPassedLevel < levelController.LevelNumber)
+        {
+            _gameProgression.LastPassedLevel = levelController.LevelNumber;
+        }
         _winSFX.Play();
         _winLabel.SetActive(true);
         yield return new WaitForSeconds(_waitToLoad);
-        // Здесь должен сохраняться прогресс
-        FindObjectOfType<LevelLoader>().LoadNextScene();
+        FindObjectOfType<GameProgression>().GetComponent<SaveLoadData>().SaveData();
+        _levelLoader.LoadNextScene();
     }
 
     public void HandleLoseCondition()
@@ -110,6 +120,5 @@ public class LevelController : MonoBehaviour
             attackerSpawner.StopSpawning();
         }
     }
-
     
 }

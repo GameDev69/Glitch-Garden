@@ -18,3 +18,4 @@ MonoBehaviour:
   waitToLoadNextLevel: 2
   timeToWaitLoadScreen: 3
   newInSceneTableLabel: New In Scene Canvas Lvl 1
+  levelNumber: 1

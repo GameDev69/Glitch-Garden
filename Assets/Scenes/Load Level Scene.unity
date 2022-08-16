@@ -141,25 +141,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 817420649806523398, guid: 3b05d4ecaaacad84bb484a10e81336c0, type: 3}
-      propertyPath: levelController
-      value: 
-      objectReference: {fileID: 11400000, guid: af7533b76443a1d438bcb4c487f8ff9f, type: 2}
     - target: {fileID: 1326705699834389056, guid: 3b05d4ecaaacad84bb484a10e81336c0, type: 3}
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1326705699834389056, guid: 3b05d4ecaaacad84bb484a10e81336c0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1326705699834389056, guid: 3b05d4ecaaacad84bb484a10e81336c0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.1055603
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1326705699834389056, guid: 3b05d4ecaaacad84bb484a10e81336c0, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.85
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1326705699834389056, guid: 3b05d4ecaaacad84bb484a10e81336c0, type: 3}
       propertyPath: m_LocalRotation.w
@@ -341,15 +337,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5763575872006617594, guid: a7153225bb27cde46a02171483ff31ce, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.4222555
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5763575872006617594, guid: a7153225bb27cde46a02171483ff31ce, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.9900033
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5763575872006617594, guid: a7153225bb27cde46a02171483ff31ce, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.019802904
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5763575872006617594, guid: a7153225bb27cde46a02171483ff31ce, type: 3}
       propertyPath: m_LocalRotation.w
@@ -502,7 +498,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8984519174513740943, guid: 42d51bd0edf270845ad07a644cf148f9, type: 3}
       propertyPath: m_Name
-      value: Level Cooser Canvas
+      value: Level Chooser Canvas
       objectReference: {fileID: 0}
     - target: {fileID: 8984519175240284124, guid: 42d51bd0edf270845ad07a644cf148f9, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target

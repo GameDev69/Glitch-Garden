@@ -13,9 +13,13 @@ public class LevelChooserController : MonoBehaviour
     private int _levelNumber; // вычисленный номер уровня для загрузки уровня при выборе
     private Button _previousPageButton;
     private Button _nextPageButton;
+    private GameObject _scanningButton;
+    private int _lastPassedLevel;
 
     private void Start()
     {
+        // FindObjectOfType<SaveLoadData>().LoadData(); // Remove after testing
+        _lastPassedLevel = FindObjectOfType<GameProgression>().LastPassedLevel;
         UpdateLevelLabels();
         _previousPageButton = GameObject.Find("Previous Page Button").GetComponent<Button>();
         _nextPageButton = GameObject.Find("Next Page Button").GetComponent<Button>();
@@ -28,22 +32,16 @@ public class LevelChooserController : MonoBehaviour
 
     private void PageChecking()
     {
+        _previousPageButton.interactable = true;
         if (_pageNumber <= 0)
         {
             _previousPageButton.interactable = false;
         }
-        else
-        {
-            _previousPageButton.interactable = true;
-        }
 
+        _nextPageButton.interactable = true;
         if (_pageNumber >= LevelsCount / SectionsCount)
         {
             _nextPageButton.interactable = false;
-        }
-        else
-        {
-            _nextPageButton.interactable = true;
         }
     }
 
@@ -64,7 +62,13 @@ public class LevelChooserController : MonoBehaviour
         for (int sectionNumber = 1; sectionNumber <= SectionsCount; sectionNumber++)
         {
             _levelNumber = 6 * (_pageNumber)  + sectionNumber;
-            GameObject.Find("Level Button " + sectionNumber).transform.GetChild(0).GetComponent<Text>().text = "Level " + _levelNumber;
+            _scanningButton = GameObject.Find("Level Button " + sectionNumber);
+            _scanningButton.transform.GetChild(0).GetComponent<Text>().text = "Level " + _levelNumber;
+            Debug.Log($"{_lastPassedLevel} < {_levelNumber}");
+            if (_lastPassedLevel < _levelNumber-1 || LevelsCount < _levelNumber)
+            {
+                _scanningButton.GetComponent<Button>().interactable = false;
+            }
         }
         
     }

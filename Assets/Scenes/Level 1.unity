@@ -225,17 +225,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8159781230585163628, guid: 9947307dc679c3a42a8e605d48302093, type: 3}
   m_PrefabInstance: {fileID: 471031521}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &601558354 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4711991283528384370, guid: 96b9b32fdf3dc68458d48776091b7563, type: 3}
-  m_PrefabInstance: {fileID: 628718457}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 48b843616f6d7d8438464eb3787aae07, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &628718457
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -648,7 +637,7 @@ PrefabInstance:
     - target: {fileID: 4872998209592489392, guid: 6aa2eeb1f5007a341a061ef31fac0e1b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 601558354}
+      objectReference: {fileID: 0}
     - target: {fileID: 4872998210597641304, guid: 6aa2eeb1f5007a341a061ef31fac0e1b, type: 3}
       propertyPath: m_Name
       value: New In Scene Canvas Lvl 1
@@ -813,6 +802,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8159781230585163628, guid: 9947307dc679c3a42a8e605d48302093, type: 3}
   m_PrefabInstance: {fileID: 1795760568}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767317374286008551
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 767317375290314616, guid: b07b9a03d465e1c43aa5a43b69773300, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 767317375290314616, guid: b07b9a03d465e1c43aa5a43b69773300, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 767317375290314616, guid: b07b9a03d465e1c43aa5a43b69773300, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 767317375290314616, guid: b07b9a03d465e1c43aa5a43b69773300, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 767317375290314616, guid: b07b9a03d465e1c43aa5a43b69773300, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 767317375290314616, guid: b07b9a03d465e1c43aa5a43b69773300, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 767317375290314616, guid: b07b9a03d465e1c43aa5a43b69773300, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 767317375290314616, guid: b07b9a03d465e1c43aa5a43b69773300, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 767317375290314616, guid: b07b9a03d465e1c43aa5a43b69773300, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 767317375290314616, guid: b07b9a03d465e1c43aa5a43b69773300, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 767317375290314616, guid: b07b9a03d465e1c43aa5a43b69773300, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 767317375290314618, guid: b07b9a03d465e1c43aa5a43b69773300, type: 3}
+      propertyPath: m_Name
+      value: Game Progression
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b07b9a03d465e1c43aa5a43b69773300, type: 3}
 --- !u!1001 &1291133862829244413
 PrefabInstance:
   m_ObjectHideFlags: 0

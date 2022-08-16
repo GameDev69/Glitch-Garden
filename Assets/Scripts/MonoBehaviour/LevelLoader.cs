@@ -6,8 +6,10 @@ using UnityEngine.SceneManagement;
 public class LevelLoader : MonoBehaviour
 {
     [SerializeField] private LevelControllers levelController;
+    
     int _timeToWait = 3; // Для  стартовой заставки
     private int _currentSceneIndex;
+    private GameProgression _gameProgression;
     
 
     void Start()
@@ -23,6 +25,7 @@ public class LevelLoader : MonoBehaviour
     {
         _timeToWait = levelController.TimeToWaitLoadScreen;
         _currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        _gameProgression = FindObjectOfType<GameProgression>();
     }
 
     private IEnumerator LoadStartScene()
@@ -40,6 +43,7 @@ public class LevelLoader : MonoBehaviour
     public void LoadMainMenu()
     {
         Time.timeScale = 1;
+        _gameProgression.ResetGame();
         SceneManager.LoadScene("Start Scene");
     }
     

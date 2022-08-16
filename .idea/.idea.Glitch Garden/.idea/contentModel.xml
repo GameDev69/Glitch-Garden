@@ -14,10 +14,12 @@
             <e p="Controller" t="Include">
               <e p="ControllerLvl1.cs" t="Include" />
             </e>
+            <e p="DataSaver.cs" t="Include" />
             <e p="Defender.cs" t="Include" />
             <e p="DefenderButton.cs" t="Include" />
             <e p="DefenderSpawner.cs" t="Include" />
             <e p="Fox.cs" t="Include" />
+            <e p="GameProgression.cs" t="Include" />
             <e p="GameTimer.cs" t="Include" />
             <e p="Gravestone.cs" t="Include" />
             <e p="Health.cs" t="Include" />
@@ -32,6 +34,7 @@
             <e p="OptionsController.cs" t="Include" />
             <e p="PlayerPrefsController.cs" t="Include" />
             <e p="Projectile.cs" t="Include" />
+            <e p="SaveLoadData.cs" t="Include" />
             <e p="Shooter.cs" t="Include" />
             <e p="StarDisplay.cs" t="Include" />
           </e>
