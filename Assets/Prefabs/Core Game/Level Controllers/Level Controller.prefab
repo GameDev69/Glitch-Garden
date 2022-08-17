@@ -239,7 +239,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be1da4757a9e54c4aa10bd1fad3dfde1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelController: {fileID: 0}
+  levelController: {fileID: 11400000, guid: 8fe6e753195c26c4e86a7f5e973c9669, type: 2}
 --- !u!114 &2583226821314447493
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -252,4 +252,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73cb2fc2a5708ed4aa5a63f6d34e97d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelController: {fileID: 0}
+  levelController: {fileID: 11400000, guid: 8fe6e753195c26c4e86a7f5e973c9669, type: 2}

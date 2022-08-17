@@ -634,10 +634,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 890277630}
     m_Modifications:
-    - target: {fileID: 4872998209592489392, guid: 6aa2eeb1f5007a341a061ef31fac0e1b, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 4872998210597641304, guid: 6aa2eeb1f5007a341a061ef31fac0e1b, type: 3}
       propertyPath: m_Name
       value: New In Scene Canvas Lvl 1
@@ -726,10 +722,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4872998210597641319, guid: 6aa2eeb1f5007a341a061ef31fac0e1b, type: 3}
-      propertyPath: m_PresetInfoIsWorld
-      value: 1
-      objectReference: {fileID: 0}
+    - target: {fileID: 5366458585683204152, guid: 6aa2eeb1f5007a341a061ef31fac0e1b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 5310719612582461036}
+    - target: {fileID: 6578759474076095697, guid: 6aa2eeb1f5007a341a061ef31fac0e1b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 5310719612582461036}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6aa2eeb1f5007a341a061ef31fac0e1b, type: 3}
 --- !u!1001 &1795760568
@@ -880,7 +880,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1291133863245288937, guid: f7e133aede43e8640a3fced17fbec2ff, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1291133863245288937, guid: f7e133aede43e8640a3fced17fbec2ff, type: 3}
       propertyPath: m_AnchorMax.x
@@ -1171,7 +1171,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5592857437846860474, guid: eee452e78236268458a5107feb738d9a, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5592857437846860474, guid: eee452e78236268458a5107feb738d9a, type: 3}
       propertyPath: m_AnchorMax.x

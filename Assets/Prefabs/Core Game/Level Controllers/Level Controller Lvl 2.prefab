@@ -7,14 +7,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2583226821314447493, guid: d6f4464c73d767f42bea1ad29a3cd58c, type: 3}
-      propertyPath: levelController
-      value: 
-      objectReference: {fileID: 11400000, guid: 8fe6e753195c26c4e86a7f5e973c9669, type: 2}
-    - target: {fileID: 4965210583395758201, guid: d6f4464c73d767f42bea1ad29a3cd58c, type: 3}
-      propertyPath: levelController
-      value: 
-      objectReference: {fileID: 11400000, guid: 8fe6e753195c26c4e86a7f5e973c9669, type: 2}
     - target: {fileID: 4965210583395758206, guid: d6f4464c73d767f42bea1ad29a3cd58c, type: 3}
       propertyPath: m_RootOrder
       value: 0
